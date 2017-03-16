@@ -1,149 +1,17 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Jimmy Young, Product Designer</title>
-  <meta name="author" content="Jimmy Young">
-  <meta name="description" content="Portfolio">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta name="keywords" content="portfolio,jimmy young,product design, front-end design, css,">
-
-
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,600' rel='stylesheet' type='text/css'>
-    <link href="https://npmcdn.com/basscss@8.0.0/css/basscss.min.css" rel="stylesheet">
-    <link href="https://npmcdn.com/basscss-responsive-margin@1.1.0/css/responsive-margin.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/animations.css">
-    <link rel="stylesheet" href="css/colors.css">
-    <link rel="stylesheet" href="css/shame.css">
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'UA-71295684-2', 'auto');
-      ga('send', 'pageview');
-
-    </script>
-
-
-</head>
-<body class="m0 bg-offwhite">
-  <header class="max-width-4 mx-auto px1 md-px3 py2 animated fadeIn">
-    <h1 class="mb0 mt4 h1 sm-h0 bold">
-      Jimmy Young
-    </h1>
-    <h3 class="sm-h2 regular m0"> Digital Product Designer</h3>
-    <section class="max-width-4 mx-auto mt2 animated fadeIn" style="animation-delay:0.2s">
-      <a href="https://dribbble.com/jyngo" target="_blank">
-      <img class="mr1" src="assets/dribbble-with-circle.svg" height="32px">
-      </a>
-      <a href="https://github.com/jyng" target="_blank">
-      <img class="mr1" src="assets/github-with-circle.svg" height="32px">
-      </a>
-      <a href="https://twitter.com/@_jyngo" target="_blank">
-      <img class="mr1" src="assets/twitter-with-circle.svg" height="32px">
-      </a>
-      <a href="mailto:jyng02@gmail.com" target="_blank">
-      <img class="mr1" src="assets/mail-with-circle.svg" height="32px">
-      </a>
-    </section>
-    <h2 class="max-width-3 mt4 mb4 h3 sm-h2 regular animated fadeIn" style="animation-delay:0.3s">
-      I'm a designer that believes in collaboration, critique, and craft. Currently focusing on making the
-      internet a better place through front-end design.
-      <br/ class="mt0 xs-hide sm-hide">
-      I sometimes write about what I'm learning on <a href="https://medium.com/@jyngo" target="_blank" class="link">Medium</a>.
-    </h2>
-  </header>
-<div class="bg-white pt3 pb2 mb3 m0">
-  <section class="max-width-4 mx-auto px1 md-px3 mb4 bg-white animated fadeIn" style="animation-delay:0.4s;">
-    <h2 id="case-studies"class="sm-h1 mt0 mb3 bold">Case Studies</h2>
-    <div class="flex flex-wrap justify-start">
-      <div class="col col-11 mb2">
-      <div class="border border-silver">
-        <div class="hide-sm table-cell height-16m col-5 bg-position" style="background-image: url('/assets/vivifi_dashboard.png');">
-        </div>
-        <div class="table-cell align-middle p3">
-        <a href="/vivifi">
-        <h1 class="mt2 mb0 bold">Vivifi</h3>
-        <h4 class="sm-h3 col-12 sm-col-9 mt2 regular">Designing a more effective system for sexual assault case management</h4>
-        </a>
-      <a href="/vivifi" class="btn btn-black">Read More</a>
-    </div>
+---
+layout: default
+---
+<!-- Loop over _data/features.yml -->
+<div class="ma4 ma5-ns">
+  {% for feature in site.data.features %}
+  <div class="w-33-l pr4 mb5 fl-l mt4 cf-4th p-fix">
+    <img class="w2" src="{{ feature.icon }}">
+    <h2 class="normal">{{ feature.name }}</h2>
+    <p class="lh-copy f5">{{ feature.description }}</p>
   </div>
+  {% endfor %}
 </div>
 
-      <div class="col col-11 mb2">
-      <div class="border border-silver">
-        <div class="hide-sm table-cell height-16m col-5 bg-position" style="background-image: url('/assets/mydomino_homepage.png');width:390px;">
-        </div>
-        <div class="table-cell align-middle p3">
-        <a href="/mydomino">
-        <h1 class="mt2 mb0 bold">MyDomino.com</h3>
-        <h4 class="sm-h3 col-12 sm-col-9 mt2 regular">Redesigning company homepage through a design sprint exercise</h4>
-        </a>
-        <a href="/mydomino" class="btn btn-black">Read More</a>
-      </div></div></div>
-
-        <div class="col col-11 mb2">
-        <div class="border border-silver">
-          <div class="hide-sm table-cell height-16m col-5 bg-position" style="background-image: url('/assets/concierge_center.png')">
-          </div>
-          <div class="table-cell align-middle p3">
-          <a href="/mydomino-dashboard">
-          <h1 class="mt2 mb0 bold">MyDomino Dashboard</h1>
-          <h4 class="sm-h3 col-12 sm-col-9 mt2 regular">Building a dashboard to help homeowners switch to clean energy</h3>
-          </a>
-          <a href="/mydomino-dashboard" class="btn btn-black">Read More</a>
-          </div></div></div>
+<div class="ma4 ma5-ns">
+  <p class="lh-copy f4 cf">* This very list of features was created by looping over a .yml file and applying styles from Tachyons.css in less than 10 lines of code. Fork the <a href="" class="link white bb pb1">Jekyons repo</a> and check out the _data directory to see how it works.</p>
 </div>
-<section class="mt2" style="animation-delay:0.5s">
-<div class="mb2">
-<h2 class="sm-h1 mt4bold inline">Other Work</h2>
-<h3 class="inline gray">(Old Portfolio)</h3>
-</div>
-<div class="flex flex-wrap">
-<div class="col col-12 sm-col-5 pr2">
-<a href="http://www.yojimmy.net/portfolio#/sfmta-muni/" target="_blank">
-<h3 class="sm-h2 mt0 mb0 bold">SFMTA MUNI Concept</h3>
-</a>
-</div>
-<div class="col col-12 sm-col-5 pr2">
-<a href="http://www.yojimmy.net/portfolio/#/spiritual-workout/" target="_blank">
-<h3 class="sm-h2 mt0 mb0 bold">Spiritual Workout</h3>
-</a>
-</div>
-</div>
-</section>
-
-
-
-</section>
-  <section class="max-width-4 mx-auto px1 md-px3 mb4 animated fadeIn" style="animation-delay:0.5s;">
-    <h2 class="sm-h1 mt0 mb2 bold">Side Projects</h2>
-      <div class="flex flex-wrap">
-      <div class="col col-12 sm-col-5 pr2">
-        <a href="http://interludes.us" target="_blank">
-        <h3 class="sm-h2 mt0 mb0 bold">Interludes</h3>
-        <h4 class="col-10 md-col-8 mt1 regular gray">A collection of short stories about the small moments in life</h3>
-      </a>
-      </div>
-
-
-      <div class="col col-12 sm-col-5">
-        <a href="http://jyng.github.io/ddsi" target="_blank">
-        <h3 class="sm-h2 mt0 mb0 bold">Digital Design for Social Impact</h3>
-        <h4 class="col-10 md-col-8 mt1 regular gray">A list of design-driven companies focusing on social impact</h3>
-          </a>
-      </div>
-
-    </div>
-    </section>
-    </div>
-    <div class="max-width-4 mx-auto px1 md-px3 animated fadeIn">
-      <h4 class="col-9 regular gray">Built on Github Pages using <a href="http://www.basscss.com" target="_blank" class="link">Basscss</a>. Check out this portfolio's repo <a href="http://github.com/jyng/jyng.github.io" target="_blank" class="link">here</a>.</h4>
-    </div>
-</div>
-</body>
-</html>
