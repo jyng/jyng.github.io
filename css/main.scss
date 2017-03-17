@@ -1,14 +1,27 @@
 ---
 # Overwrite Tachyons here. Don't go overboard!
 ---
-
-@import 'https://fonts.googleapis.com/css?family=Roboto:400,700';
-
-.roboto {
-  font-family: "Roboto";
-  letter-spacing: .05em;
+// Fonts
+@import 'https://fonts.googleapis.com/css?family=Lora:400';
+@font-face {
+	font-family: 'Bayle-Mono';
+	src: url('bayle-mono.eot');
+	src: url('bayle-mono.eot?#iefix') format('embedded-opentype'),
+             url('bayle-mono.woff2') format('woff2'),
+	     url('bayle-mono.woff') format('woff'),
+	     url('bayle-mono.ttf') format('truetype'),
+	     url('bayle-mono.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
 }
-
+.mono {
+  font-family:"Bayle-Mono",monospaced;
+  font-weight:normal;
+}
+.serif {
+  font-family: "Lora", serif;
+  font-weight: normal;
+}
 .cf {
   clear: both;
 }
