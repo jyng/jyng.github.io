@@ -1,9 +1,15 @@
 # Site settings
-title: Jekyons
+title: Jimmy Young
 version: "v1"
-description: "Stop writing CSS and start building prototypes."
+description:-- Earth person trying to leave
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+twitter: https://twitter.com/@_earthperson
+github: https://github.com/@jyng
+linkedin: https://linkedin/in/youngjimmy
+email: jyng02@gmail.com
+favicon:
+
 
 # Tachyons Version
 tv: "4.6.1"
