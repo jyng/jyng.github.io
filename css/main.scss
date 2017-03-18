@@ -14,6 +14,14 @@
 	font-weight: normal;
 	font-style: normal;
 }
+// SWOOOPPPYYYY
+#swoopy{
+  background:url(/assets/swoopy.svg);
+  background-size: cover;
+  background-position: 10% 40%;
+
+
+}
 .mono {
   font-family:"Bayle-Mono",monospaced;
   font-weight:normal;
@@ -21,6 +29,11 @@
 .serif {
   font-family: "Lora", serif;
   font-weight: normal;
+}
+@media screen and (min-width: 30em){
+.f2-ns{
+  font-size: 2rem;
+}
 }
 .cf {
   clear: both;

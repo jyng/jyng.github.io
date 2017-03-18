@@ -5,6 +5,11 @@
   src: url("bayle-mono.eot?#iefix") format("embedded-opentype"), url("bayle-mono.woff2") format("woff2"), url("bayle-mono.woff") format("woff"), url("bayle-mono.ttf") format("truetype"), url("bayle-mono.svg#youworkforthem") format("svg");
   font-weight: normal;
   font-style: normal; }
+#swoopy {
+  background: url(/assets/swoopy.svg);
+  background-size: cover;
+  background-position: 10% 40%; }
+
 .mono {
   font-family: "Bayle-Mono",monospaced;
   font-weight: normal; }
@@ -13,6 +18,9 @@
   font-family: "Lora", serif;
   font-weight: normal; }
 
+@media screen and (min-width: 30em) {
+  .f2-ns {
+    font-size: 2rem; } }
 .cf {
   clear: both; }
 
