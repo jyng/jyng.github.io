@@ -1,13 +1,14 @@
 ---
-layout: page
-title: Making it easier to reduce people's foodprint
-bkg-color: 00CCFF
+layout: post
+title: Making it easier to reduce food's carbon impact
+bkg-color: 9CEBFE
+contributions: Product Design &mdash; Visual Design &mdash; Front-End &mdash; User Research
+qtr-date: Fall 2016
+
 ---
 ## Background
-## The Challenge
 
-MyDomino set out to help make climate change easier for people. In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.
-
+MyDomino's mission is to help people reduce their carbon impact. However,  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.
 ## The Product
 
 On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.

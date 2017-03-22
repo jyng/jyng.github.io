@@ -5,17 +5,15 @@
     <description>// Portfolio</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Mar 2017 20:36:15 -0700</pubDate>
-    <lastBuildDate>Tue, 21 Mar 2017 20:36:15 -0700</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 22:31:33 -0700</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 22:31:33 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
-        <title>Making it easier to reduce people's foodprint</title>
+        <title>Making it easier to reduce food's carbon impact</title>
         <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-&lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
 
-&lt;p&gt;MyDomino set out to help make climate change easier for people. In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.&lt;/p&gt;
-
+&lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. However,  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.&lt;/p&gt;
 &lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
 
 &lt;p&gt;On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.&lt;/p&gt;

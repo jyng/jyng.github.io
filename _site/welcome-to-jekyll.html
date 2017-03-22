@@ -38,11 +38,9 @@
   <style>
     .page-gradient{
     background-image: linear-gradient(-180deg,# 0%, #FFFFFF 98%);
+    background-repeat: no-repeat;
     width:100%;
-    height:1400px;
-    position: absolute;
-    top:0;
-    left:0;
+    height:600px;
     }
   </style>
 </head>
@@ -52,14 +50,21 @@
 
     <div>
       <div class="black pa3 cf">
-        <article itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header>
-    <h1 itemprop="name headline">Welcome to Jekyll!</h1>
-    <p><time datetime="2016-08-12T22:43:32-07:00" itemprop="datePublished">Aug 12, 2016</time></p>
+        <article>
+  <header class="center w-40 mt6 mb4 serif">
+    <h1 class="f2">Welcome to Jekyll!</h1>
+    <ul class="list ph0 pv1 mono silver">
+      <li class="dib mr2"></li>
+      <li class="dib mr2 mt4"></li>
+      <li class="dib mr2"></li>
+      <li class="dib mr2"></li>
+    </ul>
   </header>
+  <div>
+    <article itemscope itemtype="http://schema.org/BlogPosting">
 
   <div itemprop="articleBody">
+    <div  class="center w-40 f5 pv5 lh-copy text">
     <p>You’ll find this post in your <code class="highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>To add new posts, simply add a file in the <code class="highlighter-rouge">_posts</code> directory that follows the convention <code class="highlighter-rouge">YYYY-MM-DD-name-of-post.ext</code> and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
@@ -77,6 +82,9 @@
 
   </div>
 
+</article>
+
+  </div>
 </article>
 
       </div>
