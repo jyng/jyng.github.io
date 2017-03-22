@@ -8,7 +8,7 @@ qtr-date: Fall 2016
 ---
 ## Background
 
-MyDomino's mission is to help people reduce their carbon impact. However,  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.
+MyDomino's mission is to help people reduce their carbon impact. In the beginning, we focused on tracking  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.
 ## The Product
 
 On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.
