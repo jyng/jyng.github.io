@@ -2,12 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jimmy Young</title>
-    <description>-- Earth person trying to leave</description>
+    <description>// Portfolio</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Mar 2017 17:52:24 -0700</pubDate>
-    <lastBuildDate>Fri, 17 Mar 2017 17:52:24 -0700</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 20:36:15 -0700</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 20:36:15 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Making it easier to reduce people's foodprint</title>
+        <description>&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+&lt;h2 id=&quot;the-challenge&quot;&gt;The Challenge&lt;/h2&gt;
+
+&lt;p&gt;MyDomino set out to help make climate change easier for people. In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
+
+&lt;p&gt;On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.&lt;/p&gt;
+
+&lt;p&gt;[ picture of different apps]&lt;/p&gt;
+
+&lt;p&gt;We also wanted to teach the relationship between food and how it impacts the environment, so being data-heavy wasn’t a high priority.&lt;/p&gt;
+
+&lt;h2 id=&quot;defining-priorities&quot;&gt;Defining Priorities&lt;/h2&gt;
+
+&lt;p&gt;We defined priorities internally to maintain focus on the right goals. We first created&lt;/p&gt;
+
+&lt;h3 id=&quot;experiential-over-literal&quot;&gt;Experiential over Literal&lt;/h3&gt;
+
+&lt;p&gt;We wanted to offer an engaging experience from copywriting to creative direction.&lt;/p&gt;
+
+&lt;h3 id=&quot;fun-over-accurate&quot;&gt;Fun over accurate&lt;/h3&gt;
+
+&lt;p&gt;While developing the copy, we saw how dry our voice came across when we tried to explain carbon impact. The copywriting team developed the copy, while I used color and typography to match the voice.&lt;/p&gt;
+
+&lt;h3 id=&quot;mobile-first-web-app&quot;&gt;Mobile-first web app&lt;/h3&gt;
+
+&lt;p&gt;Going in, the product team knew that making it easy to access the app while or after eating would be ideal. We focused on core functionality for mobile then added secondary details on desktop.&lt;/p&gt;
+
+&lt;h2 id=&quot;initial-wireframes&quot;&gt;Initial Wireframes&lt;/h2&gt;
+
+&lt;p&gt;First, I split the UI elements into &lt;code class=&quot;highlighter-rouge&quot;&gt;Actions&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Text&lt;/code&gt; so I could understand the context.&lt;/p&gt;
+
+&lt;h3 id=&quot;insert-rough-drawing&quot;&gt;[insert rough drawing]&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/906512e63b274f378b28e0b0b4a6e394/food-impact-3a_mobile.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/c95c909a90db4963b2d074f3aa5d6714/food-impact-5a_groups.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Selector interaction vs Search interaction&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Search feature was a great design feature, but expensive engineering feature.&lt;/p&gt;
+
+&lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
+
+&lt;h3 id=&quot;product-icons&quot;&gt;Product Icons&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/fedafb43967c495993f70290a95dbf3f/product-icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;home-screen&quot;&gt;Home Screen&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/8311ee3078184efe8ab7e1178f820a12/Member-home_3f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;p&gt;When users finished inputting their food, it would return them to the home screen. We assumed that there would be enough context to what all the data meant, but users went through this screen without learning how their food impacted carbon footprint.&lt;/p&gt;
+
+&lt;p&gt;We reorganized the flow so that we could make sure the learning was happening. We placed the graph on a Results page to build more context on the graph.&lt;/p&gt;
+
+&lt;h1&gt;#&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/0523953a28194857aee9de81fc07515f/choose_food_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/20a9c74c5c584d6b92a66028a1bda639/pick_size_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/58da36f5c1fb4986a191b0c4a30ccd94/beeflamb_little_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/25b99a0455584ff7ac5d3728178f2542/desktop_1b_copy.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;design-details&quot;&gt;Design Details&lt;/h2&gt;
+
+&lt;p&gt;In keeping with the style of the icons, I added an offset underline hover style&lt;/p&gt;
+
+&lt;p&gt;[line.gif]&lt;/p&gt;
+
+&lt;p&gt;In the alpha version, I added quick and dirty fade-in animation so we could test earlier, but it wasn’t an elegant solution. I later went back and added a fade-direction animation in javascript.&lt;/p&gt;
+
+&lt;p&gt;[fadeanimation.gif]&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 -0700</pubDate>
+        <link>/food-challenge</link>
+        <guid isPermaLink="true">/food-challenge</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -27,8 +115,8 @@
 
 </description>
         <pubDate>Fri, 12 Aug 2016 22:43:32 -0700</pubDate>
-        <link>/jekyll/update/2016/08/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">/jekyll/update/2016/08/12/welcome-to-jekyll.html</guid>
+        <link>/welcome-to-jekyll</link>
+        <guid isPermaLink="true">/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>

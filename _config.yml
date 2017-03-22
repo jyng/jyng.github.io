@@ -1,21 +1,26 @@
 # Site settings
 title: Jimmy Young
 version: "v1"
-description: -- Earth person trying to leave
+description: // Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter: https://twitter.com/@_earthperson
-github: https://github.com/@jyng
-linkedin: https://linkedin/in/youngjimmy
+twitter: earthperson
+github: jyng
+dribbble: jyngo
+linkedin: youngjimmy
 email: jyng02@gmail.com
-favicon:
+
 
 
 # Tachyons Version
 tv: "4.6.1"
 
+# http://jekyllrb.com/docs/permalinks/
+permalink: /:title
+
 # Build settings
 markdown: kramdown
+
 
 # Exclude this stuff
 exclude: [node_modules, gulpfile.js]
