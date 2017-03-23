@@ -35,16 +35,6 @@ h1, h2, h3 {
   background-position: 10% 40%;
   z-index: -1; }
 
-#digivolve {
-  animation: digivolve 0.4s infinite alternate; }
-
-@keyframes digivolve {
-  0% {
-    filter: url("#digivolve-1"); }
-  50% {
-    filter: url("#digivolve-2"); }
-  100% {
-    filter: url("#digivolve-3"); } }
 .cf {
   clear: both; }
 
