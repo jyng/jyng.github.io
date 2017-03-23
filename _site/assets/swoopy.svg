@@ -13,8 +13,9 @@
    <filter id="destroyMe">
 
     <!-- <feGaussianBlur in="SourceGraphic" stdDeviation="1" /> -->
-     <feTurbulence type="turbulence" numOctaves="1" baseFrequency="5">
-<!-- <animate attributeType="XML" attributeName="baseFrequency" values="0.9 ; 1 ; 0.8"  dur="30s" repeatCount="infinite"></animate> -->
+     <feTurbulence type="turbulence" numOctaves="1" baseFrequency="1">
+<animate attributeType="XML" attributeName="baseFrequency" values="1.2; 1"  dur="20s" repeatCount="indefinite" ></animate>
+
 </feTurbulence>
 <feDisplacementMap in2="turbulence" in="SourceGraphic" scale="100" xChannelSelector="R" yChannelSelector="G"></feDisplacementMap>
 </filter>
