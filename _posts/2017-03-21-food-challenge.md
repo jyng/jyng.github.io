@@ -19,22 +19,6 @@ On the surface, it’s FitBit for carbon footprint, but we prioritized education
 
 We also wanted to teach the relationship between food and how it impacts the environment, so being data-heavy wasn’t a high priority.
 
-## Defining Priorities
-
-We defined priorities internally to maintain focus on the right goals. We first created
-
-### Experiential over Literal
-
-We wanted to offer an engaging experience from copywriting to creative direction.
-
-### Fun over accurate
-
-While developing the copy, we saw how dry our voice came across when we tried to explain carbon impact. The copywriting team developed the copy, while I used color and typography to match the voice.
-
-### Mobile-first web app
-
-Going in, the product team knew that making it easy to access the app while or after eating would be ideal. We focused on core functionality for mobile then added secondary details on desktop.
-
 ## Initial Wireframes
 
 First, I split the UI elements into `Actions` and `Text` so I could understand the context.

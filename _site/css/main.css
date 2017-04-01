@@ -27,7 +27,13 @@
   .f2-ns {
     font-size: 2rem; } }
 h1, h2, h3 {
-  font-family: "Gza",serif; }
+  font-family: "Gza",serif;
+  margin-top: 0;
+  margin-bottom: 8px; }
+
+p {
+  margin-top: 0;
+  margin-bottom: 24px; }
 
 #swoopy {
   background: url(/assets/swoopy.svg);
