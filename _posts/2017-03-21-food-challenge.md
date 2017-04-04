@@ -10,63 +10,80 @@ qtr-date: Fall 2016
 {{ writing }}
 ## Background
 
-MyDomino's mission is to help people reduce their carbon impact. In the beginning, we focused on tracking  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.
+MyDomino's mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.
+
+We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.
+
 ## The Product
 
-On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.
+Our product is divided into 3 different categories: Food, Transportation, Energy.
 
-[ picture of different apps]
+We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.
 
-We also wanted to teach the relationship between food and how it impacts the environment, so being data-heavy wasn’t a high priority.
+In terms with how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
-## Initial Wireframes
+## Wireframes
 
-First, I split the UI elements into `Actions` and `Text` so I could understand the context.
+I started by organizing Actions and Information into specific hierarchies and then do some Crazy 8s to quickly explore ideas.
 
-### [insert rough drawing]
+I then mockup the best ideas in black & white to see which ideas are most promising
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/906512e63b274f378b28e0b0b4a6e394/food-impact-3a_mobile.png)
+{{end_block}}
+{{image-md}}
+<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/dcf5afae-84cc-4f06-be85-e7405106a94e/Action logging --filled.png">
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/c95c909a90db4963b2d074f3aa5d6714/food-impact-5a_groups.png)
+<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/339fb361-893e-4a08-8451-512e312e6f73/Action logging --empty 2a.png">
+{{end_block}}
 
- _Selector interaction vs Search interaction_
-
-Search feature was a great design feature, but expensive engineering feature.
+{{writing}}
 
 ## Visual Design
+We decided on a design that placed focus on the food challenge progress. Hovering allows the user to see their points. Clicking on a bar opens the view for that date. Below the food challenge tile, we showed linked resources ranging from tips & tricks to discounts.
+{{end_block}}
+{{image-md}}
+<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png">
+{{end_block}}
 
-### Product Icons
+{{writing}}
+In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.
+{{end_block}}
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/fedafb43967c495993f70290a95dbf3f/product-icon.png)
-
-### Home Screen
-
-![](https://s3-us-west-2.amazonaws.com/notion-static/8311ee3078184efe8ab7e1178f820a12/Member-home_3f.png)
+{{image-md}}
+<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png">
+{{end_block}}
+{{writing}}
+At this time, we knew this flow didn't feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.
 
 ## Feedback
 
-When users finished inputting their food, it would return them to the home screen. We assumed that there would be enough context to what all the data meant, but users went through this screen without learning how their food impacted carbon footprint.
+I suggested that we should do some user interviews even if the product wasn't fully functional.
 
-We reorganized the flow so that we could make sure the learning was happening. We placed the graph on a Results page to build more context on the graph.
+From our research, we saw that people were not interested in the graph, because it wasn't clear what the numbers meant. We knew then that we needed to slim down the Food Challenge tile, but without losing the affordance to go into the Food iew.
 
-##
+My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/0523953a28194857aee9de81fc07515f/choose_food_4a.png)
+We also noticed that the graph would be a lot of valuable once users have established context. I suggested we move the graph into the results view.
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/20a9c74c5c584d6b92a66028a1bda639/pick_size_4a.png)
+{{end_block}}
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/58da36f5c1fb4986a191b0c4a30ccd94/beeflamb_little_4a.png)
+{{image-md}}
 
-![](https://s3-us-west-2.amazonaws.com/notion-static/25b99a0455584ff7ac5d3728178f2542/desktop_1b_copy.png)
+<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png">
+{{end_block}}
 
-## Design Details
+{{image-md}}
+<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png">
+{{end_block}}
 
-In keeping with the style of the icons, I added an offset underline hover style
+{{writing}}
+## Style Guide & Front-End Architecture
+While building the product, I documented our design patterns into a style guide and led the CSS architecture.
+{{end_block}}
+{{image-md}}
 
-[line.gif]
-
-In the alpha version, I added quick and dirty fade-in animation so we could test earlier, but it wasn't an elegant solution. I later went back and added a fade-direction animation in javascript.
-
-[fadeanimation.gif]
-
+<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png">
+<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png">
+{{end_block}}
+{{image-md}}
+<img class="mw8" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
 {{end_block}}

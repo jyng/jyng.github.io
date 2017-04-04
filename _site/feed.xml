@@ -5,8 +5,8 @@
     <description>// Portfolio</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2017 20:10:55 -0700</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2017 20:10:55 -0700</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2017 21:15:05 -0700</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 21:15:05 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -16,64 +16,104 @@
 
   &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
-  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. In the beginning, we focused on tracking  In Winter 2015, I co-led a design sprint to validate the team’s assumptions. From the design sprint results, I continued as the design lead focusing on UX and visual design, while assisting in user research and front-end.&lt;/p&gt;
+  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.&lt;/p&gt;
+
+  &lt;p&gt;We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.&lt;/p&gt;
+
   &lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
 
-  &lt;p&gt;On the surface, it’s FitBit for carbon footprint, but we prioritized education over data. We realize that the market is filled with data-heavy apps and it would be hard for us to compete.&lt;/p&gt;
+  &lt;p&gt;Our product is divided into 3 different categories: Food, Transportation, Energy.&lt;/p&gt;
 
-  &lt;p&gt;[ picture of different apps]&lt;/p&gt;
+  &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.&lt;/p&gt;
 
-  &lt;p&gt;We also wanted to teach the relationship between food and how it impacts the environment, so being data-heavy wasn’t a high priority.&lt;/p&gt;
+  &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
 
-  &lt;h2 id=&quot;initial-wireframes&quot;&gt;Initial Wireframes&lt;/h2&gt;
+  &lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
 
-  &lt;p&gt;First, I split the UI elements into &lt;code class=&quot;highlighter-rouge&quot;&gt;Actions&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Text&lt;/code&gt; so I could understand the context.&lt;/p&gt;
+  &lt;p&gt;I started by organizing Actions and Information into specific hierarchies and then do some Crazy 8s to quickly explore ideas.&lt;/p&gt;
 
-  &lt;h3 id=&quot;insert-rough-drawing&quot;&gt;[insert rough drawing]&lt;/h3&gt;
+  &lt;p&gt;I then mockup the best ideas in black &amp;amp; white to see which ideas are most promising&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/906512e63b274f378b28e0b0b4a6e394/food-impact-3a_mobile.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/c95c909a90db4963b2d074f3aa5d6714/food-impact-5a_groups.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
 
-  &lt;p&gt;&lt;em&gt;Selector interaction vs Search interaction&lt;/em&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/dcf5afae-84cc-4f06-be85-e7405106a94e/Action logging --filled.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;Search feature was a great design feature, but expensive engineering feature.&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/339fb361-893e-4a08-8451-512e312e6f73/Action logging --empty 2a.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
+  &lt;p&gt;We decided on a design that placed focus on the food challenge progress. Hovering allows the user to see their points. Clicking on a bar opens the view for that date. Below the food challenge tile, we showed linked resources ranging from tips &amp;amp; tricks to discounts.&lt;/p&gt;
 
-  &lt;h3 id=&quot;product-icons&quot;&gt;Product Icons&lt;/h3&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/fedafb43967c495993f70290a95dbf3f/product-icon.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
 
-  &lt;h3 id=&quot;home-screen&quot;&gt;Home Screen&lt;/h3&gt;
+  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/8311ee3078184efe8ab7e1178f820a12/Member-home_3f.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;p&gt;In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;p&gt;At this time, we knew this flow didn’t feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.&lt;/p&gt;
 
   &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 
-  &lt;p&gt;When users finished inputting their food, it would return them to the home screen. We assumed that there would be enough context to what all the data meant, but users went through this screen without learning how their food impacted carbon footprint.&lt;/p&gt;
+  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional.&lt;/p&gt;
 
-  &lt;p&gt;We reorganized the flow so that we could make sure the learning was happening. We placed the graph on a Results page to build more context on the graph.&lt;/p&gt;
+  &lt;p&gt;From our research, we saw that people were not interested in the graph, because it wasn’t clear what the numbers meant. We knew then that we needed to slim down the Food Challenge tile, but without losing the affordance to go into the Food iew.&lt;/p&gt;
 
-  &lt;h1 id=&quot;section&quot;&gt;#&lt;/h1&gt;
+  &lt;p&gt;My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/0523953a28194857aee9de81fc07515f/choose_food_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;We also noticed that the graph would be a lot of valuable once users have established context. I suggested we move the graph into the results view.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/20a9c74c5c584d6b92a66028a1bda639/pick_size_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/58da36f5c1fb4986a191b0c4a30ccd94/beeflamb_little_4a.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
 
-  &lt;p&gt;&lt;img src=&quot;https://s3-us-west-2.amazonaws.com/notion-static/25b99a0455584ff7ac5d3728178f2542/desktop_1b_copy.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;h2 id=&quot;design-details&quot;&gt;Design Details&lt;/h2&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;In keeping with the style of the icons, I added an offset underline hover style&lt;/p&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
 
-  &lt;p&gt;[line.gif]&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;In the alpha version, I added quick and dirty fade-in animation so we could test earlier, but it wasn’t an elegant solution. I later went back and added a fade-direction animation in javascript.&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;[fadeanimation.gif]&lt;/p&gt;
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;style-guide--front-end-architecture&quot;&gt;Style Guide &amp;amp; Front-End Architecture&lt;/h2&gt;
+  &lt;p&gt;While building the product, I documented our design patterns into a style guide and led the CSS architecture.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png&quot; /&gt;
+&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;mw8&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -110,6 +150,120 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Making it easier to reduce food's carbon impact</title>
+        <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+
+  &lt;p&gt;The process of putting together a sexual assault case currently fails the purposes of advocating for victims and bringing perpetrators to hand. This problem can be improved by building a better intake and management system. Here’s an overview of the current situation:&lt;/p&gt;
+
+  &lt;ol&gt;
+    &lt;li&gt;To initiate the case, the SANE (Sexual Assault Nurse Examiner) Nurse examines the victim. The results of the examination are sealed inside of a Sexual Assault Kit (SAK).&lt;/li&gt;
+    &lt;li&gt;The SAK goes through a process of medical examination. The findings are meant to support the identification of perpetrator(s) and to provide evidence for a potential trial.&lt;/li&gt;
+    &lt;li&gt;After the SAK gets processed, an investigator is assigned to pursue the case.&lt;/li&gt;
+    &lt;li&gt;The investigator finds the perpetrator, brings them to trial, and concludes the case.&lt;/li&gt;
+  &lt;/ol&gt;
+
+  &lt;p&gt;Sounds great, right? However, the reality is that investigators rarely get the necessary information to proceed with the case. There is always a large backlog of SAK that might never see an investigator.&lt;/p&gt;
+
+  &lt;p&gt;In one weekend, my team and I sought to address this bottleneck by building a Minimum Viable Product (MVP) for product validation.&lt;/p&gt;
+
+  &lt;h2 id=&quot;sketching&quot;&gt;Sketching&lt;/h2&gt;
+
+  &lt;p&gt;I communicated the design through sketching first. This enables us to quickly draw out potential solutions while keeping design overhead low.&lt;/p&gt;
+
+  &lt;div class=&quot;col col-6 pr2&quot;&gt;
+&lt;img alt=&quot;sketch dashboard&quot; src=&quot;../assets/sketch_dashboard.jpg&quot; class=&quot;fit rounded&quot; /&gt;
+&lt;/div&gt;
+
+  &lt;div class=&quot;col col-6 pl2 mb4&quot;&gt;
+&lt;img alt=&quot;sketch information&quot; src=&quot;../assets/sketch_information.jpg&quot; class=&quot;fit rounded&quot; /&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;We were also able to quickly throw out inferior solutions as well. This pop-up solution increased the complexity of the product and expensive for engineering.&lt;/p&gt;
+
+  &lt;div class=&quot;col col-12 mb4&quot;&gt;
+&lt;img alt=&quot;sketch popup&quot; src=&quot;../assets/sketch_popup.jpg&quot; class=&quot;fit rounded&quot; style=&quot;max-height:25em;&quot; /&gt;
+&lt;/div&gt;
+
+  &lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+  &lt;p&gt;We determined that the biggest problem was how information was being distributed between professionals. Our proposed management system is aimed toward bridging the gaps between people and making the process as efficient as possible.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_dashboard.png&quot; alt=&quot;vivifi dashboard&quot; /&gt;&lt;/p&gt;
+
+  &lt;h3 id=&quot;creating-a-record&quot;&gt;Creating a record&lt;/h3&gt;
+
+  &lt;p&gt;SANE Nurses initiate cases, but they have legal limitations on their access of information:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;They cannot edit the cases after it has been submitted&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;They cannot view other cases&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;To account for these limitations, we decided to separate “SANE Nurse” and “Investigator” types where SANE Nurses can only create new records and Investigators can create and view records.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_create.png&quot; alt=&quot;vivifi create&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Because SANE Nurses can only create new records, we have a “Review” button to help them confirm that they’ve entered the information accurately.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_review.png&quot; alt=&quot;vivifi review&quot; /&gt;&lt;/p&gt;
+
+  &lt;h3 id=&quot;investigating-a-case&quot;&gt;Investigating a case&lt;/h3&gt;
+  &lt;p&gt;After a case has been submitted, the case shows up on the dashboard (which only the investigator may see). The investigator can then proceed to look through each case and fill out the information they’ve collected. &lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_victim.png&quot; alt=&quot;vivifi victim&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Once an investigator presses “Complete,” an automated email message is sent to the victim to update them on the progress of their case.&lt;/p&gt;
+
+  &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+  &lt;p&gt;We built this project during a snowy weekend near Lake Tahoe, so it’s definitely a small application. Still, we solved our scope of the problem (increasing transparency of information) and even squeezed in a nifty feature (email updates).&lt;/p&gt;
+
+  &lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+  &lt;p&gt;With an MVP built out, we’re beginning to do some product validation with small counties in the Midwest. We’re also planning on starting a Kickstarter campaign so there will be second version coming out soon.&lt;/p&gt;
+
+  &lt;h2 id=&quot;lessons-learned&quot;&gt;3 Lessons Learned&lt;/h2&gt;
+
+  &lt;h3 id=&quot;designing-in-the-browser-reduces-engineering-cost&quot;&gt;1. Designing in the Browser Reduces Engineering Cost&lt;/h3&gt;
+
+  &lt;p&gt;I used a &lt;a href=&quot;http://tachyons.io/&quot;&gt;Tachyons spacing module&lt;/a&gt; on top of a &lt;a href=&quot;https://bootswatch.com/paper/&quot;&gt;Bootstrap theme&lt;/a&gt; in which Tachyons’ atomic classes really showed big gains without conflicting the Bootstrap CSS (It’s amazing what margin and padding can do alone). At first, I was unused to using a application outside of Sketch, but I soon found out that I was building things faster than I would have in Sketch. It’s amazing what margin and padding can do alone. From this, I learned how utility classes can enable designers to contribute on production code. Relieving engineers from coding pixel-perfect designs is a huge win in
+my book.&lt;/p&gt;
+
+  &lt;h3 id=&quot;ux-freebies-from-mean-stack-ultimately-helps-our-users&quot;&gt;2. UX Freebies from MEAN Stack Ultimately Helps Our Users&lt;/h3&gt;
+
+  &lt;p&gt;We ultimately chose MEAN stack, but we had disagreements about choosing MEAN over Rails. Although I was more familiar with Ruby on Rails, I now understand why we chose MEAN. Take a look at this interaction:&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_interaction.gif&quot; alt=&quot;vivifi interaction&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;This search input allows us to remove having an “Enter” button, which mean users can get to what they want faster and it comes for free!&lt;/p&gt;
+
+  &lt;p&gt;Because MEAN processes most of its information on the client side, we can minimize clicks to help users achieve their goals easier. With our heavy focus on input fields, choosing MEAN enabled us to make a simpler application with less friction for the user.&lt;/p&gt;
+
+  &lt;h3 id=&quot;user-stories-guide-our-scope&quot;&gt;3. User Stories Guide Our Scope&lt;/h3&gt;
+
+  &lt;p&gt;A significant obstacle in hack projects is deciding what can be reasonably built in 1-2 days. By engaging user stories in the ideation and planning phases, we were able to organize and complete features efficiently while keeping a holistic view of the project’s scope.&lt;/p&gt;
+
+  &lt;p&gt;For example, a user story we really wanted was for victims to engage with the investigator on the progress of their case. This user story came up multiple times in conversation, but other user stories proved to have higher priority. Building out a “victim dashboard” would require the same amount of time. Also, the product wouldn’t be able to exist if investigators had no information to pursue cases.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_trello.png&quot; alt=&quot;vivifi trello&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;{end_block}&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
+        <link>/vivifi</link>
+        <guid isPermaLink="true">/vivifi</guid>
+        
         
       </item>
     

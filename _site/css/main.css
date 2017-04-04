@@ -28,8 +28,9 @@
     font-size: 2rem; } }
 h1, h2, h3 {
   font-family: "Gza",serif;
-  margin-top: 0;
-  margin-bottom: 8px; }
+  margin-top: 24px;
+  margin-bottom: 8px;
+  line-height: 1; }
 
 p {
   margin-top: 0;

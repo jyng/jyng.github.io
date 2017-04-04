@@ -3,7 +3,7 @@
 {% endcapture %}
 
 {% capture image-md %}
-<div markdown="1">
+<div class="flex flex-column flex-row-ns justify-around" markdown="1">
 {% endcapture %}
 
 {% capture end_block %}

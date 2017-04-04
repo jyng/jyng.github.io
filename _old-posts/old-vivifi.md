@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Vivifi
+layout: page
+title: Making it easier to reduce food's carbon impact
+bkg-color: 66FFDB
+contributions: Product Design &mdash; Front-End
+qtr-date: Fall 2016
 ---
 # Designing a more effective system for sexual assault case management
 
