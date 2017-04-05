@@ -22,34 +22,44 @@ We started with food first because it was something that a lot of users were cur
 
 In terms with how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
+I was responsible for designing the product from sketching to shipping. I also supported in user research duties and front-end development.
+
 ## Wireframes
 
-I started by organizing Actions and Information into specific hierarchies and then do some Crazy 8s to quickly explore ideas.
-
-I then mockup the best ideas in black & white to see which ideas are most promising
+I started by organizing Actions and Information into specific hierarchies and then iterated in a Crazy 8s fashion to quickly generate ideas.
+I then took the best ideas so see how well they held up on the screen.
 
 {{end_block}}
-{{image-md}}
-<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/dcf5afae-84cc-4f06-be85-e7405106a94e/Action logging --filled.png">
+{{image-three}}
+<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-1.png">
+<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-2.png">
+<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-3.png">
 
-<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/339fb361-893e-4a08-8451-512e312e6f73/Action logging --empty 2a.png">
+
+
 {{end_block}}
-
+<p class="db center tc mono gray f6 mt0  mb5"> Input UI explorations</p>
 {{writing}}
 
 ## Visual Design
-We decided on a design that placed focus on the food challenge progress. Hovering allows the user to see their points. Clicking on a bar opens the view for that date. Below the food challenge tile, we showed linked resources ranging from tips & tricks to discounts.
+We decided on a data visualization design that placed focus on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
 {{end_block}}
 {{image-md}}
-<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png">
 {{end_block}}
+{{image-md}}
+<img class="w-100" src="assets/food-challenge/hover.gif">
+<p class="db center tc mono gray f6 mt0  mb5"> Hover interaction</p>
+{{end_block}}
+
+
 
 {{writing}}
 In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.
 {{end_block}}
 
 {{image-md}}
-<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png">
 {{end_block}}
 {{writing}}
 At this time, we knew this flow didn't feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.

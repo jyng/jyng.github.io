@@ -3,9 +3,12 @@
 {% endcapture %}
 
 {% capture image-md %}
-<div class="flex flex-column flex-row-ns justify-around" markdown="1">
+<div class="mw7 ph3 center" markdown="1">
 {% endcapture %}
 
+{% capture image-three %}
+<div class="flex flex-column flex-row-ns justify-around" markdown="1">
+{% endcapture %}
 {% capture end_block %}
 </div>
 {% endcapture %}
