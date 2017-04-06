@@ -3,12 +3,12 @@ layout: post
 title: MyDomino Dashboard
 ---
 
-## Building a better way to manage homeowners' path towards clean energy
+# Building a better way to manage homeowners' path towards clean energy
 
 
 
-<div class="col col-6 mt4">
-<h4>Skills Applied</h4>
+<!-- <div class="col col-6 mt4">
+<h5>Skills Applied</h5>
 <ul class="list-reset h3 mt0">
 <li>Visual Design</li>
 <li>Product Design</li>
@@ -16,13 +16,14 @@ title: MyDomino Dashboard
 </div>
 
 <div class="col col-6 mt4">
-  <h4>Team</h4>
+  <h5>Team</h5>
   <h3 class="mt0 h3 regular"><a href="http://github.com/jcmorrow" target="_blank" class="link">Josh Morrow</a></h3>
   <h3 class="mt0 h3 regular">Eva</h3>
   <h3 class="mt0 h3 regular">Rosana</h3>
 </div>
-<div class="clearfix"></div>
+<div class="clearfix"></div> -->
 
+<div class="mb4"></div>
 
 ## About
 Domino is a committed to helping people contribute to a more sustainable planet.
