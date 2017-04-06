@@ -1,0 +1,90 @@
+---
+# Overwrite Tachyons here. Don't go overboard!
+---
+// Fonts
+@import 'https://fonts.googleapis.com/css?family=Lora:400';
+
+@font-face {
+	font-family: 'Bayle-Mono';
+	src: url('bayle-mono.eot');
+	src: url('bayle-mono.eot?#iefix') format('embedded-opentype'),
+             url('bayle-mono.woff2') format('woff2'),
+	     url('bayle-mono.woff') format('woff'),
+	     url('bayle-mono.ttf') format('truetype'),
+	     url('bayle-mono.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gza';
+	src: url('gza-seminegra.eot');
+	src: url('gza-seminegra.eot?#iefix') format('embedded-opentype'),
+             url('gza-seminegra.woff2') format('woff2'),
+	     url('gza-seminegra.woff') format('woff'),
+	     url('gza-seminegra.ttf') format('truetype'),
+	     url('gza-seminegra.woff.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+.mono {
+  font-family:"Bayle-Mono",monospaced;
+  font-weight:normal;
+}
+.serif {
+  font-family: "Gza", serif;
+  font-weight: normal;
+}
+
+.text{
+	font-family: "Lora", serif;
+  font-weight: normal;
+}
+@media screen and (min-width: 30em){
+.f2-ns{
+  font-size: 2rem;
+}
+}
+
+h1,h2,h3 {
+	font-family:"Gza",serif;
+	margin-top:24px;
+	margin-bottom:8px;
+	line-height: 1;
+
+}
+
+p{
+	margin-top:0;
+	margin-bottom: 24px;
+}
+
+// SWOOOPPPYYYY //
+
+#swoopy{
+	background: url(/assets/swoopy.svg);
+  background-size: cover;
+  background-position: 10% 40%;
+	z-index:-1;
+}
+
+
+.cf {
+  clear: both;
+}
+
+.cf-4th {
+  &:nth-child(4n) {
+    margin-right: 0;
+    clear: both;
+  }
+}
+
+.p-fix {
+  &:nth-child(3n) {
+    padding-right: 0;
+    margin-right: 0;
+  }
+}
