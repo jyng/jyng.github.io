@@ -62,7 +62,7 @@ In the food view, we grouped the categories and a dynamic gauge so users could q
 <img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png">
 {{end_block}}
 {{writing}}
-At this time, we knew this flow didn't feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.
+After food input has been completed, the user is brought back to their dashboard.
 
 ## Feedback
 
