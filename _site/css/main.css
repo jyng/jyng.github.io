@@ -1,8 +1,8 @@
 @import "https://fonts.googleapis.com/css?family=Lora:400";
 @font-face {
-  font-family: 'assets/fonts/Bayle-Mono';
+  font-family: 'Bayle-Mono';
   src: url("../assets/fonts/bayle-mono.eot");
-  src: url("../bayle-mono.eot?#iefix") format("embedded-opentype"), url("assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype"), url("../assets/fonts/bayle-mono.svg#youworkforthem") format("svg");
+  src: url("../assets/bayle-mono.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype"), url("../assets/fonts/bayle-mono.svg#youworkforthem") format("svg");
   font-weight: normal;
   font-style: normal; }
 @font-face {
