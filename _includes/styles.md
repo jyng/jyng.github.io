@@ -6,9 +6,15 @@
 <div class="mw7 ph3 center" markdown="1">
 {% endcapture %}
 
+{% capture image-two %}
+<div class="flex flex-column flex-row-ns mw7 center" markdown="1">
+
+{% endcapture %}
+
 {% capture image-three %}
 <div class="flex flex-column flex-row-ns justify-around" markdown="1">
 {% endcapture %}
+
 {% capture end_block %}
 </div>
 {% endcapture %}
