@@ -8,7 +8,7 @@
 @font-face {
   font-family: 'Gza';
   src: url("../assets/fonts/gza-seminegra.eot");
-  src: url("../assets/fonts/gza-seminegra.eot?#iefix") format("embedded-opentype"), url("../assets/gza-seminegra.woff2") format("woff2"), url("../assets/fonts/gza-seminegra.woff") format("woff"), url("../assets/fonts/gza-seminegra.ttf") format("truetype"), url("../assets/fonts/gza-seminegra.woff.svg") format("svg");
+  src: url("../assets/fonts/gza-seminegra.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/gza-seminegra.woff2") format("woff2"), url("../assets/fonts/gza-seminegra.woff") format("woff"), url("../assets/fonts/gza-seminegra.ttf") format("truetype"), url("../assets/fonts/gza-seminegra.woff.svg") format("svg");
   font-weight: normal;
   font-style: normal; }
 .mono {
