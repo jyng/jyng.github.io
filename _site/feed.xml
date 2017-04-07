@@ -5,8 +5,8 @@
     <description>// Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Apr 2017 20:40:55 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Apr 2017 20:40:55 -0700</lastBuildDate>
+    <pubDate>Fri, 07 Apr 2017 16:59:39 -0700</pubDate>
+    <lastBuildDate>Fri, 07 Apr 2017 16:59:39 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -67,31 +67,29 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-around center&quot;&gt;
+&lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--empty.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--modal.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--selected.png&quot; /&gt;&lt;/p&gt;
-  &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt;The dynamic gauge gives instant feedback on their carbon impact.&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/foodModal@1.5x.gif&quot; /&gt;&lt;/p&gt;
+  &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt;The dynamic gauge gives instant feedback on their carbon impact (Prototyped in Framer)&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;p&gt;In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without much incentive for the user to come back.&lt;/p&gt;
+  &lt;p&gt;In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.&lt;/p&gt;
 
   &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 
-  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional to test our assumption.&lt;/p&gt;
+  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional to test our assumption. I supported user research by distilling findings into insights.&lt;/p&gt;
 
   &lt;p&gt;Here are some insights we found:&lt;/p&gt;
   &lt;ul&gt;
     &lt;li&gt;Measurement for carbon dioxide wasn’t a clear indicator of how well they were doing&lt;/li&gt;
     &lt;li&gt;There wasn’t enough context for the graph to be meaningful&lt;/li&gt;
-    &lt;li&gt;The gauge was easy to miss on smaller screens&lt;/li&gt;
+    &lt;li&gt;The gauge was easy to miss because it was below the fold&lt;/li&gt;
   &lt;/ul&gt;
 
-  &lt;p&gt;My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.&lt;/p&gt;
+  &lt;p&gt;My product manager suggested a week graph as that UI is clearer than  . Our engineers were working on some back-end issues, so I designed and implemented the feature.&lt;/p&gt;
 
   &lt;p&gt;We also noticed that the graph would be a lot of valuable once users have established context. I suggested we move the graph into the results view.&lt;/p&gt;
 
@@ -99,13 +97,9 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png&quot; /&gt;&lt;/p&gt;
 
-&lt;/div&gt;
-
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
-
-  &lt;p&gt;&lt;img class=&quot;mw7&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -118,14 +112,14 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png&quot; /&gt;
-&lt;img class=&quot;mw6&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png&quot; /&gt;
+&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;mw8&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 

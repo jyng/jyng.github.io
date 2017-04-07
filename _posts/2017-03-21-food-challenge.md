@@ -52,25 +52,23 @@ We decided on a data visualization design that placed focus on a user's food imp
 <p class="center tc mono gray f6 mt0 mb5"> Hover interaction</p>
 {{end_block}}
 
-{{image-three}}
-<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--empty.png">
-<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--modal.png">
-<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--selected.png">
-<p class="center tc mono gray f6 mt0 mb5">The dynamic gauge gives instant feedback on their carbon impact.</p>
+{{image-md}}
+<img class="w-100" src="/assets/food-challenge/foodModal@1.5x.gif">
+<p class="center tc mono gray f6 mt0 mb5">The dynamic gauge gives instant feedback on their carbon impact (Prototyped in Framer)</p>
 {{end_block}}
 {{writing}}
-In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without much incentive for the user to come back.
+In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.
 
 ## Feedback
 
-I suggested that we should do some user interviews even if the product wasn't fully functional to test our assumption.
+I suggested that we should do some user interviews even if the product wasn't fully functional to test our assumption. I supported user research by distilling findings into insights.
 
 Here are some insights we found:
 - Measurement for carbon dioxide wasn't a clear indicator of how well they were doing
 - There wasn't enough context for the graph to be meaningful
-- The gauge was easy to miss on smaller screens
+- The gauge was easy to miss because it was below the fold
 
-My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.
+My product manager suggested a week graph as that UI is clearer than  . Our engineers were working on some back-end issues, so I designed and implemented the feature.
 
 We also noticed that the graph would be a lot of valuable once users have established context. I suggested we move the graph into the results view.
 
@@ -78,11 +76,9 @@ We also noticed that the graph would be a lot of valuable once users have establ
 
 {{image-md}}
 
-<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png">
-{{end_block}}
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png">
 
-{{image-md}}
-<img class="mw7" src="https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png">
 {{end_block}}
 
 {{writing}}
@@ -91,9 +87,9 @@ While building the product, I documented our design patterns into a style guide 
 {{end_block}}
 {{image-md}}
 
-<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png">
-<img class="mw6" src="https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png">
 {{end_block}}
 {{image-md}}
-<img class="mw8" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
+<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
 {{end_block}}
