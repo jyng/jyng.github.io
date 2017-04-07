@@ -5,8 +5,8 @@
     <description>// Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Apr 2017 20:14:15 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Apr 2017 20:14:15 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Apr 2017 20:40:55 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Apr 2017 20:40:55 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -37,7 +37,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-column flex-row-ns justify-around center&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-around center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-1.png&quot; /&gt;
 &lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-2.png&quot; /&gt;
@@ -56,40 +56,40 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/myhome-v1.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;div class=&quot;mw7 ph3 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;assets/food-challenge/hover.gif&quot; /&gt;&lt;/p&gt;
-  &lt;p class=&quot;db center tc mono gray f6 mt0  mb5&quot;&gt; Hover interaction&lt;/p&gt;
+  &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt; Hover interaction&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-around center&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--empty.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--modal.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;/assets/food-challenge/foodSelect--selected.png&quot; /&gt;&lt;/p&gt;
+  &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt;The dynamic gauge gives instant feedback on their carbon impact.&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;p&gt;In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;flex flex-column flex-row-ns justify-around center&quot;&gt;
-
-  &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--empty.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--modal.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--selected.png&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
-
-  &lt;p&gt;At this time, we knew this flow didn’t feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.&lt;/p&gt;
+  &lt;p&gt;In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without much incentive for the user to come back.&lt;/p&gt;
 
   &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 
-  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional.&lt;/p&gt;
+  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional to test our assumption.&lt;/p&gt;
 
-  &lt;p&gt;From our research, we saw that people were not interested in the graph, because it wasn’t clear what the numbers meant. We knew then that we needed to slim down the Food Challenge tile, but without losing the affordance to go into the Food iew.&lt;/p&gt;
+  &lt;p&gt;Here are some insights we found:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Measurement for carbon dioxide wasn’t a clear indicator of how well they were doing&lt;/li&gt;
+    &lt;li&gt;There wasn’t enough context for the graph to be meaningful&lt;/li&gt;
+    &lt;li&gt;The gauge was easy to miss on smaller screens&lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;p&gt;My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.&lt;/p&gt;
 

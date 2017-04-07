@@ -45,32 +45,30 @@ I then took the best ideas so see how well they held up on the screen.
 We decided on a data visualization design that placed focus on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
 {{end_block}}
 {{image-md}}
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/04c2e070-f6d3-48ef-b7ad-992e6b5bbb93/Member-home 3f.png">
+<img class="w-100" src="/assets/food-challenge/myhome-v1.png">
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="assets/food-challenge/hover.gif">
-<p class="db center tc mono gray f6 mt0  mb5"> Hover interaction</p>
-{{end_block}}
-
-
-
-{{writing}}
-In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.
+<p class="center tc mono gray f6 mt0 mb5"> Hover interaction</p>
 {{end_block}}
 
 {{image-three}}
-<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--empty.png">
-<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--modal.png">
-<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--selected.png">
+<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--empty.png">
+<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--modal.png">
+<img class="w-100 w-33-ns" src="/assets/food-challenge/foodSelect--selected.png">
+<p class="center tc mono gray f6 mt0 mb5">The dynamic gauge gives instant feedback on their carbon impact.</p>
 {{end_block}}
 {{writing}}
-At this time, we knew this flow didn't feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.
+In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without much incentive for the user to come back.
 
 ## Feedback
 
-I suggested that we should do some user interviews even if the product wasn't fully functional.
+I suggested that we should do some user interviews even if the product wasn't fully functional to test our assumption.
 
-From our research, we saw that people were not interested in the graph, because it wasn't clear what the numbers meant. We knew then that we needed to slim down the Food Challenge tile, but without losing the affordance to go into the Food iew.
+Here are some insights we found:
+- Measurement for carbon dioxide wasn't a clear indicator of how well they were doing
+- There wasn't enough context for the graph to be meaningful
+- The gauge was easy to miss on smaller screens
 
 My product manager suggested we try a week view showing only completion. Our engineers were working on higher priority tasks, so I designed and implemented the idea.
 
