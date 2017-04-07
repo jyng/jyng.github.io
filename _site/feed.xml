@@ -5,8 +5,8 @@
     <description>// Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Apr 2017 22:21:34 -0700</pubDate>
-    <lastBuildDate>Wed, 05 Apr 2017 22:21:34 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Apr 2017 20:14:15 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Apr 2017 20:14:15 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -37,7 +37,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-column flex-row-ns justify-around&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-1.png&quot; /&gt;
 &lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-2.png&quot; /&gt;
@@ -73,9 +73,11 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-around center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--empty.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--modal.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns &quot; src=&quot;/assets/food-challenge/foodSelect--selected.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 

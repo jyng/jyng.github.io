@@ -58,8 +58,10 @@ We decided on a data visualization design that placed focus on a user's food imp
 In the food view, we grouped the categories and a dynamic gauge so users could quickly see their relationships of food and their carbon impact.
 {{end_block}}
 
-{{image-md}}
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/4bc6c1df-3815-4805-b8b2-f290299cbb6e/desktop 1f.png">
+{{image-three}}
+<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--empty.png">
+<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--modal.png">
+<img class="w-100 w-33-ns " src="/assets/food-challenge/foodSelect--selected.png">
 {{end_block}}
 {{writing}}
 At this time, we knew this flow didn't feel complete, but we had been building the product non-stop and needed to conduct user research to give our team better perspective.

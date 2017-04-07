@@ -37,6 +37,9 @@ p {
   margin-top: 0;
   margin-bottom: 24px; }
 
+body {
+  background-color: #f9f9f9; }
+
 #swoopy {
   background: url(/assets/swoopy.svg);
   background-size: cover;
