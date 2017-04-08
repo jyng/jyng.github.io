@@ -41,9 +41,9 @@ body {
   background-color: #f9f9f9; }
 
 #swoopy {
-  background: url(/assets/food-challenge/swoopy.jpg);
+  background: url(/assets/food-challenge/swoopy.png);
   background-size: cover;
-  background-position: 2% 10%;
+  background-position: 10% 40%;
   z-index: -1; }
 
 .cf {
