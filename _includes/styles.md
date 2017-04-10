@@ -3,11 +3,11 @@
 {% endcapture %}
 
 {% capture image-md %}
-<div class="mw7 ph3 center" markdown="1">
+<div class="mw7 center" markdown="1">
 {% endcapture %}
 
 {% capture image-two %}
-<div class="flex flex-column flex-row-ns mw7 center" markdown="1">
+<div class="flex flex-column flex-row-ns justify-center">
 
 {% endcapture %}
 

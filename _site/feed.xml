@@ -5,9 +5,61 @@
     <description>// Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Apr 2017 03:43:39 -0700</pubDate>
-    <lastBuildDate>Sat, 08 Apr 2017 03:43:39 -0700</lastBuildDate>
+    <pubDate>Sun, 09 Apr 2017 20:31:02 -0700</pubDate>
+    <lastBuildDate>Sun, 09 Apr 2017 20:31:02 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Photography</title>
+        <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+  &lt;p&gt;I’ve been taking photos for about 6 years. Mostly on and off because I’ll get stuck on a visual aesthetic and just quit altogether. I’ll state that photography was just unfulfilling for me. Classic cognitive dissonance. Another problem was exposure ( I hate puns). The photography I was seeing on Instagram and VSCO made me question my photography. This year, through some personal reasons, I decided to get over my photography slump.&lt;/p&gt;
+
+  &lt;p&gt;Here are some pictures I’ve taken in the past (read: that I hate), but other people have said were good.&lt;/p&gt;
+
+  &lt;p&gt;[6 pictures]&lt;/p&gt;
+
+  &lt;p&gt;#Present
+In the past, I focused purely on actualizing the image of what I saw. Adhering strictly to the rules of photography. So much so that I avoided post-processing on principle.&lt;/p&gt;
+
+  &lt;p&gt;It took awhile, but when I started questioning my intentionality, I began to see myself shooting in a different light ( I hate puns).&lt;/p&gt;
+
+  &lt;p&gt;“What are you trying to say?”&lt;/p&gt;
+
+  &lt;p&gt;This question haunts and inspires me at the same time.&lt;/p&gt;
+
+  &lt;p&gt;[new pictures]&lt;/p&gt;
+
+  &lt;p&gt;Right now, I’m extremely drawn to fleeting small moments, technology-facilitated love, and humor. This new direction also pushed me into different shooting styles and post-processing.&lt;/p&gt;
+
+  &lt;p&gt;Grain can be used to introduce nostalgia and longing.&lt;/p&gt;
+
+  &lt;p&gt;[new pictures 2]&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
+        <link>jyng.github.io/photography</link>
+        <guid isPermaLink="true">jyng.github.io/photography</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Design Graveyard</title>
+        <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
+        <link>jyng.github.io/design-graveyard</link>
+        <guid isPermaLink="true">jyng.github.io/design-graveyard</guid>
+        
+        
+      </item>
     
       <item>
         <title>Making it easier to reduce food's carbon impact</title>
@@ -54,20 +106,20 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/myhome-v1.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;assets/food-challenge/hover.gif&quot; /&gt;&lt;/p&gt;
   &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt; Hover interaction&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/foodModal@1.5x.gif&quot; /&gt;&lt;/p&gt;
   &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt;The dynamic gauge gives instant feedback on their carbon impact (Prototyped in Framer)&lt;/p&gt;
@@ -95,7 +147,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png&quot; /&gt;&lt;/p&gt;
 
@@ -105,19 +157,33 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;h2 id=&quot;style-guide--front-end-architecture&quot;&gt;Style Guide &amp;amp; Front-End Architecture&lt;/h2&gt;
-  &lt;p&gt;While building the product, I documented our design patterns into a style guide and led the CSS architecture.&lt;/p&gt;
+  &lt;h2 id=&quot;style-guide--css-architecture&quot;&gt;Style Guide &amp;amp; CSS Architecture&lt;/h2&gt;
+
+  &lt;h3 id=&quot;style-guide&quot;&gt;Style Guide&lt;/h3&gt;
+  &lt;p&gt;While building the product, I documented our design patterns into a style guide so as the product grew our team was able make decisions quickly and build the product consistently.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png&quot; /&gt;
-&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;img class=&quot;w-40-l ma2 self-start&quot; src=&quot;assets/food-challenge/sg-pg1.png&quot; /&gt;
+&lt;img class=&quot;w-40-l ma2 self-start&quot; src=&quot;assets/food-challenge/sg-pg2.png&quot; /&gt;
+
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 ph3 center&quot;&gt;
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h3 id=&quot;css-architecture&quot;&gt;CSS Architecture&lt;/h3&gt;
+  &lt;p&gt;When I first joined the company, it was all legacy code leftover various contractors. I led the restructuring of the entire CSS stack (a lot concepts borrowed from Tachyons and Basscss). I focused on making sure the code was readable through comments, organization, and most of all communication.&lt;/p&gt;
+
+  &lt;p&gt;[Marketing Design]
+[Various marketing designs (print &amp;amp; digital) I worked on for MyDomino]&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png&quot; /&gt;&lt;/p&gt;
 
@@ -127,6 +193,17 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
         <pubDate>Tue, 21 Mar 2017 00:00:00 -0700</pubDate>
         <link>jyng.github.io/food-challenge</link>
         <guid isPermaLink="true">jyng.github.io/food-challenge</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Meiru Mag</title>
+        <description>
+</description>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 -0800</pubDate>
+        <link>jyng.github.io/meiru-mag</link>
+        <guid isPermaLink="true">jyng.github.io/meiru-mag</guid>
         
         
       </item>
@@ -185,11 +262,13 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-column flex-row-ns mw7 center&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-center&quot;&gt;
 
-  &lt;p&gt;&lt;img alt=&quot;sketch dashboard&quot; src=&quot;/assets/vivifi/sketch_dashboard.jpg&quot; class=&quot;w-90  ba b--silver&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img alt=&quot;sketch information&quot; src=&quot;/assets/vivifi/sketch_information.jpg&quot; class=&quot;w-90 ba b--silver&quot; /&gt;&lt;/p&gt;
+&lt;img alt=&quot;sketch dashboard&quot; class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/vivifi/sketch_dashboard.jpg&quot; /&gt;
+
+&lt;img alt=&quot;sketch information&quot; class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/vivifi/sketch_information.jpg&quot; /&gt;
+
 
 &lt;/div&gt;
 

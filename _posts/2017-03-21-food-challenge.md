@@ -82,13 +82,24 @@ We also noticed that the graph would be a lot of valuable once users have establ
 {{end_block}}
 
 {{writing}}
-## Style Guide & Front-End Architecture
-While building the product, I documented our design patterns into a style guide and led the CSS architecture.
-{{end_block}}
-{{image-md}}
+## Style Guide & CSS Architecture
 
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/9353e7ef-5a35-407e-8891-e119ab43d110/Desktop.png">
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/740e0aa2-845c-4f36-bd1d-f7c04344bc77/Page 2.png">
+### Style Guide
+While building the product, I documented our design patterns into a style guide so as the product grew our team was able make decisions quickly and build the product consistently.
+{{end_block}}
+
+
+{{image-two}}
+<img class="w-40-l ma2 self-start" src="assets/food-challenge/sg-pg1.png">
+<img class="w-40-l ma2 self-start" src="assets/food-challenge/sg-pg2.png">
+
+{{end_block}}
+{{writing}}
+### CSS Architecture
+When I first joined the company, it was all legacy code leftover various contractors. I led the restructuring of the entire CSS stack (a lot concepts borrowed from Tachyons and Basscss). I focused on making sure the code was readable through comments, organization, and most of all communication.
+
+[Marketing Design]
+[Various marketing designs (print & digital) I worked on for MyDomino]
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
