@@ -5,8 +5,8 @@
     <description>// Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Apr 2017 15:03:52 -0700</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2017 15:03:52 -0700</lastBuildDate>
+    <pubDate>Tue, 11 Apr 2017 19:33:37 -0700</pubDate>
+    <lastBuildDate>Tue, 11 Apr 2017 19:33:37 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -274,17 +274,19 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;p&gt;We were also able to quickly throw out inferior solutions as well. This pop-up solution increased the complexity of the product and expensive for engineering.&lt;/p&gt;
-
-  &lt;div class=&quot;col col-12 mb4&quot;&gt;
-&lt;img alt=&quot;sketch popup&quot; src=&quot;../assets/sketch_popup.jpg&quot; class=&quot;fit rounded&quot; style=&quot;max-height:25em;&quot; /&gt;
-&lt;/div&gt;
-
   &lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
 
   &lt;p&gt;We determined that the biggest problem was how information was being distributed between professionals. Our proposed management system is aimed toward bridging the gaps between people and making the process as efficient as possible.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_dashboard.png&quot; alt=&quot;vivifi dashboard&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi dashboard&quot; src=&quot;/assets/vivifi/vivifi_dashboard.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h3 id=&quot;creating-a-record&quot;&gt;Creating a record&lt;/h3&gt;
 
@@ -301,16 +303,40 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
   &lt;p&gt;To account for these limitations, we decided to separate “SANE Nurse” and “Investigator” types where SANE Nurses can only create new records and Investigators can create and view records.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_create.png&quot; alt=&quot;vivifi create&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi create&quot; src=&quot;../assets/vivifi/vivifi_create.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;p&gt;Because SANE Nurses can only create new records, we have a “Review” button to help them confirm that they’ve entered the information accurately.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_review.png&quot; alt=&quot;vivifi review&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi review&quot; src=&quot;../assets/vivifi/vivifi_review.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h3 id=&quot;investigating-a-case&quot;&gt;Investigating a case&lt;/h3&gt;
   &lt;p&gt;After a case has been submitted, the case shows up on the dashboard (which only the investigator may see). The investigator can then proceed to look through each case and fill out the information they’ve collected. &lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_victim.png&quot; alt=&quot;vivifi victim&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi victim&quot; src=&quot;../assets/vivifi/vivifi_victim.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;p&gt;Once an investigator presses “Complete,” an automated email message is sent to the victim to update them on the progress of their case.&lt;/p&gt;
 
@@ -323,28 +349,40 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
   &lt;h2 id=&quot;lessons-learned&quot;&gt;3 Lessons Learned&lt;/h2&gt;
 
-  &lt;h3 id=&quot;designing-in-the-browser-reduces-engineering-cost&quot;&gt;1. Designing in the Browser Reduces Engineering Cost&lt;/h3&gt;
+  &lt;h4 id=&quot;designing-in-the-browser-reduces-engineering-cost&quot;&gt;1. Designing in the Browser Reduces Engineering Cost&lt;/h4&gt;
 
   &lt;p&gt;I used a &lt;a href=&quot;http://tachyons.io/&quot;&gt;Tachyons spacing module&lt;/a&gt; on top of a &lt;a href=&quot;https://bootswatch.com/paper/&quot;&gt;Bootstrap theme&lt;/a&gt; in which Tachyons’ atomic classes really showed big gains without conflicting the Bootstrap CSS (It’s amazing what margin and padding can do alone). At first, I was unused to using a application outside of Sketch, but I soon found out that I was building things faster than I would have in Sketch. It’s amazing what margin and padding can do alone. From this, I learned how utility classes can enable designers to contribute on production code. Relieving engineers from coding pixel-perfect designs is a huge win in
 my book.&lt;/p&gt;
 
-  &lt;h3 id=&quot;ux-freebies-from-mean-stack-ultimately-helps-our-users&quot;&gt;2. UX Freebies from MEAN Stack Ultimately Helps Our Users&lt;/h3&gt;
+  &lt;h4 id=&quot;ux-freebies-from-mean-stack-helps-our-users&quot;&gt;2. UX Freebies from MEAN Stack Helps Our Users&lt;/h4&gt;
 
   &lt;p&gt;We ultimately chose MEAN stack, but we had disagreements about choosing MEAN over Rails. Although I was more familiar with Ruby on Rails, I now understand why we chose MEAN. Take a look at this interaction:&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_interaction.gif&quot; alt=&quot;vivifi interaction&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi interaction&quot; src=&quot;../assets/vivifi/vivifi_interaction.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;p&gt;This search input allows us to remove having an “Enter” button, which mean users can get to what they want faster and it comes for free!&lt;/p&gt;
 
   &lt;p&gt;Because MEAN processes most of its information on the client side, we can minimize clicks to help users achieve their goals easier. With our heavy focus on input fields, choosing MEAN enabled us to make a simpler application with less friction for the user.&lt;/p&gt;
 
-  &lt;h3 id=&quot;user-stories-guide-our-scope&quot;&gt;3. User Stories Guide Our Scope&lt;/h3&gt;
+  &lt;h4 id=&quot;user-stories-guide-our-scope&quot;&gt;3. User Stories Guide Our Scope&lt;/h4&gt;
 
   &lt;p&gt;A significant obstacle in hack projects is deciding what can be reasonably built in 1-2 days. By engaging user stories in the ideation and planning phases, we were able to organize and complete features efficiently while keeping a holistic view of the project’s scope.&lt;/p&gt;
 
   &lt;p&gt;For example, a user story we really wanted was for victims to engage with the investigator on the progress of their case. This user story came up multiple times in conversation, but other user stories proved to have higher priority. Building out a “victim dashboard” would require the same amount of time. Also, the product wouldn’t be able to exist if investigators had no information to pursue cases.&lt;/p&gt;
 
-  &lt;p&gt;&lt;img src=&quot;../assets/vivifi_trello.png&quot; alt=&quot;vivifi trello&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img alt=&quot;vivifi trello&quot; src=&quot;../assets/vivifi/vivifi_trello.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 

@@ -5,10 +5,12 @@ description: // Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "jyng.github.io" # the base hostname & protocol for your site
 twitter: _jyngo
-github: jyng
-dribbble: jyngo
+github: https:/github.com/jyng
+dribbble: https:/dribbble.com/jyngo
+arena: https://are.na/earth-person
 linkedin: youngjimmy
 email: jyng02@gmail.com
+resume: https://dropbox.com/
 
 
 

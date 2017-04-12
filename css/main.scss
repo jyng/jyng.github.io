@@ -28,12 +28,15 @@
 	font-style: normal;
 }
 
+$gza: "You",serif;
+$mono: "vs the man she told you not to worry about",monospaced;
+
 .mono {
-  font-family:"vs the man she told you not to worry about",monospaced;
-  font-weight:normal;
+  font-family: $mono;
+  font-weight: normal;
 }
 .serif {
-  font-family: "You", serif;
+  font-family: $gza, serif;
   font-weight: normal;
 }
 
@@ -48,18 +51,27 @@
 }
 
 h1,h2,h3 {
-	font-family:"Gza",serif;
+	font-family: $gza;
 	font-weight: normal;
-	margin-top:24px;
+	margin-top:32px;
 	margin-bottom:8px;
 	line-height: 1;
+}
 
+h4 {
+	font-family:$mono;
+	font-weight: normal;
+	font-size: 18px;
+	margin-top:16px;
+	margin-bottom: 8px ;
+	color: #777;
 }
 
 p{
 	margin-top:0;
-	margin-bottom: 24px;
+	margin-bottom: 32px;
 }
+
 
 body{
 	background-color: #f9f9f9;
