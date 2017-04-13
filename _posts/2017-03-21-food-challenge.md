@@ -104,3 +104,16 @@ When I first joined the company, it was all legacy code leftover various contrac
 {{image-md}}
 <img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
 {{end_block}}
+{{writing}}
+# Marketing Design & Product Concepts
+#### Besides working on the main product, I explored different product concepts and shipped marketing collateral
+
+I created a brand mark for our Clean Score
+
+At one point, we were sending PDF reports of people's carbon impact. This a "report card" I designed.
+
+I also redesigned our marketing website
+
+
+
+{{end_block}}
