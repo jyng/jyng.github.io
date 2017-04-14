@@ -48,6 +48,9 @@ p {
 body {
   background-color: #f9f9f9; }
 
+.flex img {
+  margin: 1px; }
+
 #swoopy {
   background: url(/assets/swoopy.png);
   background-size: cover;

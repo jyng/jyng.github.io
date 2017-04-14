@@ -31,14 +31,14 @@ I then took the best ideas so see how well they held up on the screen.
 
 {{end_block}}
 {{image-three}}
-<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-1.png">
-<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-2.png">
-<img class="w-100 w-33-ns" src="assets/food-challenge/wireframes-3.png">
+<img class="w-100 w-33-ns self-start" src="assets/food-challenge/wireframes-1.png">
+<img class="w-100 w-33-ns self-start" src="assets/food-challenge/wireframes-2.png">
+<img class="w-100 w-33-ns self-start" src="assets/food-challenge/wireframes-3.png">
 
 
 
 {{end_block}}
-<p class="db center tc mono gray f6 mt0  mb5"> Input UI explorations</p>
+<p class="db center tc mono gray f6 mt3 mb5"> Input UI explorations</p>
 {{writing}}
 
 ## Visual Design

@@ -12,7 +12,11 @@
 {% endcapture %}
 
 {% capture image-three %}
-<div class="flex flex-column flex-wrap flex-row-ns justify-around center" markdown="1">
+<div class="flex flex-column flex-wrap flex-row-ns justify-around center">
+{% endcapture %}
+
+{% capture image-grid  %}
+<div class="flex flex-column flex-wrap flex-row-ns center">
 {% endcapture %}
 
 {% capture end_block %}

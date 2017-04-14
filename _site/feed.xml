@@ -5,8 +5,8 @@
     <description>U+2014 Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2017 00:16:56 -0700</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 00:16:56 -0700</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2017 20:15:35 -0700</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2017 20:15:35 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -20,10 +20,23 @@
 
   &lt;p&gt;Here are some pictures I’ve taken in the past (read: that I hate), but other people have said were good.&lt;/p&gt;
 
-  &lt;p&gt;[6 pictures]&lt;/p&gt;
+&lt;/div&gt;
 
-  &lt;p&gt;#Present
-In the past, I focused purely on actualizing the image of what I saw. Adhering strictly to the rules of photography. So much so that I avoided post-processing on principle.&lt;/p&gt;
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns center&quot;&gt;
+
+&lt;img src=&quot;/assets/photos/clean1.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+&lt;img src=&quot;/assets/photos/clean4.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+&lt;img src=&quot;/assets/photos/clean2.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+&lt;img src=&quot;/assets/photos/clean3.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+&lt;img src=&quot;/assets/photos/clean3.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+&lt;img src=&quot;/assets/photos/clean3.jpg&quot; class=&quot;self-start w-33&quot; /&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h1 id=&quot;present&quot;&gt;Present&lt;/h1&gt;
+  &lt;p&gt;In the past, I focused purely on actualizing the image of what I saw. Adhering strictly to the rules of photography. So much so that I avoided post-processing on principle.&lt;/p&gt;
 
   &lt;p&gt;It took awhile, but when I started questioning my intentionality, I began to see myself shooting in a different light ( I hate puns).&lt;/p&gt;
 
@@ -91,13 +104,16 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-around center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-1.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-2.png&quot; /&gt;
-&lt;img class=&quot;w-100 w-33-ns&quot; src=&quot;assets/food-challenge/wireframes-3.png&quot; /&gt;&lt;/p&gt;
+&lt;img class=&quot;w-100 w-33-ns self-start&quot; src=&quot;assets/food-challenge/wireframes-1.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns self-start&quot; src=&quot;assets/food-challenge/wireframes-2.png&quot; /&gt;
+&lt;img class=&quot;w-100 w-33-ns self-start&quot; src=&quot;assets/food-challenge/wireframes-3.png&quot; /&gt;
+
+
+
 
 &lt;/div&gt;
 
-&lt;p class=&quot;db center tc mono gray f6 mt0  mb5&quot;&gt; Input UI explorations&lt;/p&gt;
+&lt;p class=&quot;db center tc mono gray f6 mt3 mb5&quot;&gt; Input UI explorations&lt;/p&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
