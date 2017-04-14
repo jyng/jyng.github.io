@@ -74,11 +74,11 @@ We also noticed that the graph would be a lot of valuable once users have establ
 
 {{end_block}}
 
-{{image-md}}
+{{image-two}}
 
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png">
-
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png">
+<img class="w-33 self-start" src="/assets/food-challenge/v1-homeboard.png">
+<img class="w-33 self-start" src="/assets/food-challenge/v1-food-select.png">
+<img class="w-33 self-start" src="/assets/food-challenge/v1-food-results.png">
 {{end_block}}
 
 {{writing}}
@@ -97,23 +97,12 @@ While building the product, I documented our design patterns into a style guide 
 {{writing}}
 ### CSS Architecture
 When I first joined the company, it was all legacy code leftover various contractors. I led the restructuring of the entire CSS stack (a lot concepts borrowed from Tachyons and Basscss). I focused on making sure the code was readable through comments, organization, and most of all communication.
-
-[Marketing Design]
-[Various marketing designs (print & digital) I worked on for MyDomino]
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
 {{end_block}}
+
 {{writing}}
-# Marketing Design & Product Concepts
-#### Besides working on the main product, I explored different product concepts and shipped marketing collateral
 
-I created a brand mark for our Clean Score
-
-At one point, we were sending PDF reports of people's carbon impact. This a "report card" I designed.
-
-I also redesigned our marketing website
-
-
-
+[See Marketing Design for MyDomino](mydomino-marketing.html)
 {{end_block}}

@@ -1,4 +1,27 @@
 @import "https://fonts.googleapis.com/css?family=Lora:400";
+.browser {
+  background-color: #E4ECF3;
+  border: 1px solid #f1f1f1;
+  border-radius: 6px;
+  padding-top: 32px;
+  position: relative; }
+  .browser:before {
+    content: '...';
+    position: absolute;
+    top: 0;
+    left: 10px;
+    line-height: 0.7rem;
+    font-size: 2.5em;
+    color: #C0C4CC;
+    font-weight: bold;
+    letter-spacing: 0.2rem; }
+
+.overflow {
+  height: 568px; }
+
+.flex img {
+  margin: 1px; }
+
 @font-face {
   font-family: 'You';
   src: url("../assets/fonts/gza-seminegra.eot");
@@ -47,9 +70,6 @@ p {
 
 body {
   background-color: #f9f9f9; }
-
-.flex img {
-  margin: 1px; }
 
 #swoopy {
   background: url(/assets/swoopy.png);

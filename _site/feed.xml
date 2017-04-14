@@ -5,9 +5,67 @@
     <description>U+2014 Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Apr 2017 20:15:35 -0700</pubDate>
-    <lastBuildDate>Thu, 13 Apr 2017 20:15:35 -0700</lastBuildDate>
+    <pubDate>Fri, 14 Apr 2017 01:46:49 -0700</pubDate>
+    <lastBuildDate>Fri, 14 Apr 2017 01:46:49 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>Marketing Design</title>
+        <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;print-design&quot;&gt;Print Design&lt;/h2&gt;
+  &lt;p&gt;Over the course of being a lead designer, I shipped a lot of print collateral while working on product. Here are a select few.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;div class=&quot;center tc&quot;&gt;
+&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/print-design.png&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;logo-design&quot;&gt;Logo Design&lt;/h2&gt;
+  &lt;p&gt;We were exploring ways to represent Clean Score long term. Here’s the mark I came up with.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;div class=&quot;tc&quot;&gt;
+&lt;img class=&quot;w-100 self-start center&quot; src=&quot;assets/food-challenge/sphere-4.jpg&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;marketing-site-redesign&quot;&gt;Marketing Site Redesign&lt;/h2&gt;
+  &lt;p&gt;I designed and co-built our marketing site with our lead engineer&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;div class=&quot;browser mb4&quot;&gt;
+&lt;div class=&quot;self-start overflow overflow-y-scroll&quot;&gt;
+&lt;img src=&quot;assets/food-challenge/v1-homepage.png&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 14 Apr 2017 00:00:00 -0700</pubDate>
+        <link>jyng.github.io/mydomino-marketing</link>
+        <guid isPermaLink="true">jyng.github.io/mydomino-marketing</guid>
+        
+        
+      </item>
     
       <item>
         <title>Photography</title>
@@ -163,11 +221,13 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
-&lt;div class=&quot;mw7 center&quot;&gt;
+&lt;div class=&quot;flex flex-column flex-row-ns justify-center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/765259d3-f505-4557-9b53-d95472ea333a/My-Home%20%207a%20.png&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/3f945c0b-b83c-4676-ae3e-5b189c6dfc5d/desktop 1f--flip.png&quot; /&gt;&lt;/p&gt;
+
+&lt;img class=&quot;w-33 self-start&quot; src=&quot;/assets/food-challenge/v1-homeboard.png&quot; /&gt;
+&lt;img class=&quot;w-33 self-start&quot; src=&quot;/assets/food-challenge/v1-food-select.png&quot; /&gt;
+&lt;img class=&quot;w-33 self-start&quot; src=&quot;/assets/food-challenge/v1-food-results.png&quot; /&gt;
 
 &lt;/div&gt;
 
@@ -194,9 +254,6 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
   &lt;h3 id=&quot;css-architecture&quot;&gt;CSS Architecture&lt;/h3&gt;
   &lt;p&gt;When I first joined the company, it was all legacy code leftover various contractors. I led the restructuring of the entire CSS stack (a lot concepts borrowed from Tachyons and Basscss). I focused on making sure the code was readable through comments, organization, and most of all communication.&lt;/p&gt;
 
-  &lt;p&gt;[Marketing Design]
-[Various marketing designs (print &amp;amp; digital) I worked on for MyDomino]&lt;/p&gt;
-
 &lt;/div&gt;
 
 &lt;div class=&quot;mw7 center&quot;&gt;
@@ -207,14 +264,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;h1 id=&quot;marketing-design--product-concepts&quot;&gt;Marketing Design &amp;amp; Product Concepts&lt;/h1&gt;
-  &lt;h4 id=&quot;besides-working-on-the-main-product-i-explored-different-product-concepts-and-shipped-marketing-collateral&quot;&gt;Besides working on the main product, I explored different product concepts and shipped marketing collateral&lt;/h4&gt;
-
-  &lt;p&gt;I created a brand mark for our Clean Score&lt;/p&gt;
-
-  &lt;p&gt;At one point, we were sending PDF reports of people’s carbon impact. This a “report card” I designed.&lt;/p&gt;
-
-  &lt;p&gt;I also redesigned our marketing website&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;mydomino-marketing.html&quot;&gt;See Marketing Design for MyDomino&lt;/a&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
