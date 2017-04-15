@@ -4,8 +4,10 @@
 
 $color-666: #666666;
 $color-meme: #420666;
-$gza: "You",serif;
-$mono: "vs the man she told you not to worry about",monospaced;
+
+.gray-666 {color:$color-666;}
+.color-meme {color:$color-meme;}
+
 
 .browser{
 	background-color: #E4ECF3;
@@ -60,7 +62,8 @@ $mono: "vs the man she told you not to worry about",monospaced;
 	font-style: normal;
 }
 
-
+$gza: "You",serif;
+$mono: "vs the man she told you not to worry about",monospaced;
 
 .mono {
   font-family: $mono;
@@ -71,7 +74,7 @@ $mono: "vs the man she told you not to worry about",monospaced;
   font-weight: normal;
 }
 
-.text{
+.text {
 	font-family: "Lora", serif;
   font-weight: normal;
 }
@@ -101,7 +104,7 @@ h4 {
 	color: $color-666;
 }
 
-p{
+p {
 	margin-top:0;
 	margin-bottom: 32px;
 	}

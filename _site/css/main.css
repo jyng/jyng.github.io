@@ -1,4 +1,10 @@
 @import "https://fonts.googleapis.com/css?family=Lora:400";
+.gray-666 {
+  color: #666666; }
+
+.color-meme {
+  color: #420666; }
+
 .browser {
   background-color: #E4ECF3;
   border: 1px solid #f1f1f1;
