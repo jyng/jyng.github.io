@@ -53,11 +53,10 @@ We decided on a data visualization design that placed focus on a user's food imp
 {{end_block}}
 
 {{image-md}}
-<img class="w-100" src="/assets/food-challenge/foodModal@1.5x.gif">
+<img class="w-100" src="/assets/food-challenge/foodModal.gif">
 <p class="center tc mono gray f6 mt0 mb5">The dynamic gauge gives instant feedback on their carbon impact (Prototyped in Framer)</p>
 {{end_block}}
 {{writing}}
-In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.
 
 ## Feedback
 
@@ -65,12 +64,15 @@ I suggested that we should do some user interviews even if the product wasn't fu
 
 Here are some insights we found:
 - Measurement for carbon dioxide wasn't a clear indicator of how well they were doing
-- There wasn't enough context for the graph to be meaningful
-- The gauge was easy to miss because it was below the fold
+- We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).
+- The gauge's relationship with their food selection was ambiguous
 
-My product manager suggested a week graph as that UI is clearer than  . Our engineers were working on some back-end issues, so I designed and implemented the feature.
+### Incorporating Feedback
 
-We also noticed that the graph would be a lot of valuable once users have established context. I suggested we move the graph into the results view.
+My product manager suggested that showing the weekday a user has completed would help solve our affordance issue. I volunteered to implement it as the engineers were busy solving a large back-end issue.
+While building the Weekday UI, I reasoned that we move the graph into a results view. A graph at the end of flow would have more value for users.
+
+In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.
 
 {{end_block}}
 
@@ -103,6 +105,7 @@ When I first joined the company, it was all legacy code leftover various contrac
 {{end_block}}
 
 {{writing}}
-
-[See Marketing Design for MyDomino](mydomino-marketing.html)
+<div class="tc">
+<a href="mydomino-marketing.html" alt="See Marketing Design for MyDomino" class="mono f4 line">See Marketing Design for MyDomino</a>
+</div>
 {{end_block}}
