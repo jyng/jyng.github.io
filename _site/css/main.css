@@ -25,9 +25,6 @@
 .overflow {
   height: 568px; }
 
-.flex img {
-  margin: 1px; }
-
 @font-face {
   font-family: 'You';
   src: url("../assets/fonts/gza-seminegra.eot");
@@ -74,7 +71,7 @@ h4 {
   color: #666666; }
 
 p {
-  margin-top: 0;
+  margin-top: 16px;
   margin-bottom: 32px; }
 
 .line {

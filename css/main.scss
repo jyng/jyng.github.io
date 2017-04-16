@@ -30,10 +30,7 @@ $color-meme: #420666;
 	height: 568px;
 }
 
-//margin all for image-grid in styles.md
-.flex img {
-	margin: 1px;
-}
+
 
 // Fonts
 @import 'https://fonts.googleapis.com/css?family=Lora:400';
@@ -105,7 +102,7 @@ h4 {
 }
 
 p {
-	margin-top:0;
+	margin-top:16px;
 	margin-bottom: 32px;
 	}
 .line {
