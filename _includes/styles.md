@@ -16,7 +16,7 @@
 {% endcapture %}
 
 {% capture image-grid  %}
-<div class="flex flex-wrap center">
+<div class="flex flex-wrap center mb4">
 {% endcapture %}
 
 {% capture end_block %}

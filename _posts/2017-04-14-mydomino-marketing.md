@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Marketing Design
+bkg-color: 9CEBFE
 contributions: Various marketing design work for MyDomino (while working on product)
 
 ---
@@ -29,7 +30,7 @@ We were exploring ways to represent Clean Score long term. Here's the mark I cam
 
 {{writing}}
 ## Marketing Site Redesign
-I designed and co-built our marketing site with our lead engineer 
+I designed and co-built our marketing site with our lead engineer
 {{end_block}}
 
 {{image-md}}

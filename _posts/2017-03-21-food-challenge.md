@@ -22,7 +22,8 @@ We started with food first because it was something that a lot of users were cur
 
 In terms with how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
-I was responsible for designing the product from sketching to shipping. I also supported in user research duties and front-end development.
+## My Role
+I was responsible for designing the entire web app from ideation to implementation. I also helped gather user research, facilitate key product decisions, and helped build out the CSS architecture.
 
 ## Wireframes
 
@@ -42,7 +43,7 @@ I then took the best ideas so see how well they held up on the screen.
 {{writing}}
 
 ## Visual Design
-We decided on a data visualization design that placed focus on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
+We decided on a graph UI that placed focus on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="/assets/food-challenge/myhome-v1.png">

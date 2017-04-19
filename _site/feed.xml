@@ -5,8 +5,8 @@
     <description>U+2014 Portfolio</description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 15 Apr 2017 21:05:46 -0700</pubDate>
-    <lastBuildDate>Sat, 15 Apr 2017 21:05:46 -0700</lastBuildDate>
+    <pubDate>Tue, 18 Apr 2017 20:38:20 -0700</pubDate>
+    <lastBuildDate>Tue, 18 Apr 2017 20:38:20 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -82,7 +82,7 @@
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-wrap center&quot;&gt;
+&lt;div class=&quot;flex flex-wrap center mb4&quot;&gt;
 
 &lt;img src=&quot;/assets/photos/clean1.jpg&quot; class=&quot;self-start w-third&quot; /&gt;
 &lt;img src=&quot;/assets/photos/clean4.jpg&quot; class=&quot;self-start w-third&quot; /&gt;
@@ -105,7 +105,7 @@
 
 &lt;/div&gt;
 
-&lt;div class=&quot;flex flex-wrap center&quot;&gt;
+&lt;div class=&quot;flex flex-wrap center mb4&quot;&gt;
 
 &lt;img src=&quot;/assets/photos/new5.jpg&quot; class=&quot;self-start w-50&quot; /&gt;
 &lt;img src=&quot;/assets/photos/new2.jpg&quot; class=&quot;self-start w-50&quot; /&gt;
@@ -166,7 +166,8 @@
 
   &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
 
-  &lt;p&gt;I was responsible for designing the product from sketching to shipping. I also supported in user research duties and front-end development.&lt;/p&gt;
+  &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
+  &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation. I also helped gather user research, facilitate key product decisions, and helped build out the CSS architecture.&lt;/p&gt;
 
   &lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
 
@@ -191,7 +192,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
-  &lt;p&gt;We decided on a data visualization design that placed focus on a user’s food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.&lt;/p&gt;
+  &lt;p&gt;We decided on a graph UI that placed focus on a user’s food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -297,6 +298,28 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
       <item>
         <title>Meiru Mag</title>
         <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;brand-identity&quot;&gt;Brand Identity&lt;/h2&gt;
+
+  &lt;p&gt;I really struggled a lot through the brand identity process. It was mainly hard because the topic is so personal. To best represent the subject, we needed a brand to show to nascent aspect of Asian-American culture. So the identity would have an evolving aesthetic rather than one that’s stagnant.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://canvas-files-prod.s3.amazonaws.com/uploads/f04df575-fd73-49fa-a4eb-10e9b85fcfdb/meiru-identity.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+
+  &lt;p&gt;I did all the photography, design, and development of the site. I worked with a friend to interview and transcribe all the interviews. Site is being released Summer 2017.&lt;/p&gt;
+
+&lt;/div&gt;
+
 </description>
         <pubDate>Thu, 09 Mar 2017 00:00:00 -0800</pubDate>
         <link>jyng.github.io/meiru-mag</link>
@@ -351,7 +374,8 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 
   &lt;p&gt;Sounds great, right? However, the reality is that investigators rarely get the necessary information to proceed with the case. There is always a large backlog of SAK that might never see an investigator.&lt;/p&gt;
 
-  &lt;p&gt;In one weekend, my team and I sought to address this bottleneck by building a Minimum Viable Product (MVP) for product validation.&lt;/p&gt;
+  &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
+  &lt;p&gt;Because our team did a good amount of preliminary research, I was responsible for prioritizing product decisions, designing the product, and then implementing my designs in HTML/CSS.&lt;/p&gt;
 
   &lt;h2 id=&quot;sketching&quot;&gt;Sketching&lt;/h2&gt;
 
@@ -440,40 +464,10 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
   &lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
   &lt;p&gt;We built this project during a snowy weekend near Lake Tahoe, so it’s definitely a small application. Still, we solved our scope of the problem (increasing transparency of information) and even squeezed in a nifty feature (email updates).&lt;/p&gt;
 
-  &lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+  &lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
 
-  &lt;p&gt;With an MVP built out, we’re beginning to do some product validation with small counties in the Midwest. We’re also planning on starting a Kickstarter campaign so there will be second version coming out soon.&lt;/p&gt;
-
-  &lt;h2 id=&quot;lessons-learned&quot;&gt;3 Lessons Learned&lt;/h2&gt;
-
-  &lt;h4 id=&quot;designing-in-the-browser-reduces-engineering-cost&quot;&gt;1. Designing in the Browser Reduces Engineering Cost&lt;/h4&gt;
-
-  &lt;p&gt;I used a &lt;a href=&quot;http://tachyons.io/&quot;&gt;Tachyons spacing module&lt;/a&gt; on top of a &lt;a href=&quot;https://bootswatch.com/paper/&quot;&gt;Bootstrap theme&lt;/a&gt; in which Tachyons’ atomic classes really showed big gains without conflicting the Bootstrap CSS (It’s amazing what margin and padding can do alone). At first, I was unused to using a application outside of Sketch, but I soon found out that I was building things faster than I would have in Sketch. It’s amazing what margin and padding can do alone. From this, I learned how utility classes can enable designers to contribute on production code. Relieving engineers from coding pixel-perfect designs is a huge win in
-my book.&lt;/p&gt;
-
-  &lt;h4 id=&quot;ux-freebies-from-mean-stack-helps-our-users&quot;&gt;2. UX Freebies from MEAN Stack Helps Our Users&lt;/h4&gt;
-
-  &lt;p&gt;We ultimately chose MEAN stack, but we had disagreements about choosing MEAN over Rails. Although I was more familiar with Ruby on Rails, I now understand why we chose MEAN. Take a look at this interaction:&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;mw7 center&quot;&gt;
-
-  &lt;p&gt;&lt;img alt=&quot;vivifi interaction&quot; src=&quot;../assets/vivifi/vivifi_interaction.gif&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
-
-  &lt;p&gt;This search input allows us to remove having an “Enter” button, which mean users can get to what they want faster and it comes for free!&lt;/p&gt;
-
-  &lt;p&gt;Because MEAN processes most of its information on the client side, we can minimize clicks to help users achieve their goals easier. With our heavy focus on input fields, choosing MEAN enabled us to make a simpler application with less friction for the user.&lt;/p&gt;
-
-  &lt;h4 id=&quot;user-stories-guide-our-scope&quot;&gt;3. User Stories Guide Our Scope&lt;/h4&gt;
-
-  &lt;p&gt;A significant obstacle in hack projects is deciding what can be reasonably built in 1-2 days. By engaging user stories in the ideation and planning phases, we were able to organize and complete features efficiently while keeping a holistic view of the project’s scope.&lt;/p&gt;
-
-  &lt;p&gt;For example, a user story we really wanted was for victims to engage with the investigator on the progress of their case. This user story came up multiple times in conversation, but other user stories proved to have higher priority. Building out a “victim dashboard” would require the same amount of time. Also, the product wouldn’t be able to exist if investigators had no information to pursue cases.&lt;/p&gt;
+  &lt;h4 id=&quot;scope-creep&quot;&gt;Scope Creep&lt;/h4&gt;
+  &lt;p&gt;Scope creep is a huge issue in hackathon projects and often determines the success of the project. By using User Stories, the whole team is in sync with the product scope.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -483,6 +477,14 @@ my book.&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;p&gt;For example, a user story we really wanted was for victim to use a dashboard to communicate with their investigator. This user story came up multiple times in conversation, but the size of the story was out of scope. We couldn’t have a victim dashboard without an investigator dashboard. Building out a victim dashboard would require another weekend.&lt;/p&gt;
+
+  &lt;h4 id=&quot;designing-in-the-browser&quot;&gt;Designing in the Browser&lt;/h4&gt;
+  &lt;p&gt;When the team is small, it’s crucial that team members have overlap. Designing in browser frees you from the ricochet of front-end feedback; increasing the velocity of the team.
+I also find that once a designer has a deeper understanding of their material, they have better insight into the final product.&lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
         <link>jyng.github.io/vivifi</link>
