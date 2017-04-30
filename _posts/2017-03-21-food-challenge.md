@@ -99,7 +99,7 @@ While building the product, I documented our design patterns into a style guide 
 {{end_block}}
 {{writing}}
 ### CSS Architecture
-When I first joined the company, it was all legacy code leftover various contractors. I led the restructuring of the entire CSS stack (a lot concepts borrowed from Tachyons and Basscss). I focused on making sure the code was readable through comments, organization, and most of all communication.
+When I first joined the company, it was all legacy code leftover from various contractors. I led the restructuring of the entire CSS stack (concepts borrowed from Tachyons/Basscss). I focused on readability and consistency that allowed our CSS to evolve gracefully.
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">

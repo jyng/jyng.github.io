@@ -8,7 +8,7 @@ contributions: Various marketing design work for MyDomino (while working on prod
 {% include styles.md %}
 {{writing}}
 ## Print Design
-Over the course of being a lead designer, I shipped a lot of print collateral while working on product. Here are a select few.
+Over the course of being the lead designer, I shipped a lot of print collateral while working on product. Here are a select few.
 {{end_block}}
 
 {{image-md}}
@@ -17,16 +17,6 @@ Over the course of being a lead designer, I shipped a lot of print collateral wh
 </div>
 {{end_block}}
 
-{{writing}}
-## Logo Design
-We were exploring ways to represent Clean Score long term. Here's the mark I came up with.
-{{end_block}}
-
-{{image-md}}
-<div class="tc">
-<img class="w-100 self-start center" src="assets/food-challenge/sphere-4.jpg"/>
-</div>
-{{end_block}}
 
 {{writing}}
 ## Marketing Site Redesign
