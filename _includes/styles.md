@@ -7,7 +7,7 @@
 {% endcapture %}
 
 {% capture image-two %}
-<div class="flex flex-column flex-row-ns justify-center">
+<div class="flex flex-column flex-wrap flex-row-ns justify-center">
 
 {% endcapture %}
 
