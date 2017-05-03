@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 May 2017 21:53:06 -0700</pubDate>
-    <lastBuildDate>Mon, 01 May 2017 21:53:06 -0700</lastBuildDate>
+    <pubDate>Tue, 02 May 2017 20:54:15 -0700</pubDate>
+    <lastBuildDate>Tue, 02 May 2017 20:54:15 -0700</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -121,19 +121,23 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
       <item>
         <title>Design Graveyard</title>
         <description>
-&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-around center&quot;&gt;
+&lt;div class=&quot;masonry&quot;&gt;
 
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/soma-invite.png&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/remix-1a.jpg&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/cuid.png&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/soju.png&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/sos.jpg&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/icons.png&quot; /&gt;
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/face.png&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/soma-invite.png&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/sphere-4.jpg&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/icons.png&quot; /&gt;
+&lt;img class=&quot;mt1&quot; src=&quot;assets/graveyard/rem-meme.png&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/remix-1a.jpg&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/cuid.png&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/face.png&quot; /&gt;
+&lt;img class=&quot;mb1&quot; src=&quot;assets/graveyard/soju.png&quot; /&gt;
+&lt;style&gt;.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }&lt;/style&gt;&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://player.vimeo.com/video/154699438&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;img class=&quot;mt1&quot; src=&quot;assets/graveyard/sos.jpg&quot; /&gt;
 
-&lt;img class=&quot;w-third-l self-start center&quot; src=&quot;assets/graveyard/sphere.gif&quot; /&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/154699438&quot; width=&quot;655&quot; height=&quot;370&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+
+
 
 
 &lt;/div&gt;

@@ -19,6 +19,10 @@
 <div class="flex flex-wrap center mb4">
 {% endcapture %}
 
+{% capture masonry %}
+<div class="masonry">
+{% endcapture %}
+
 {% capture end_block %}
 </div>
 {% endcapture %}

@@ -4,17 +4,21 @@ title: Design Graveyard
 contributions: Here lies the souls that didn't make it through the arduous odyssey. Bless their hearts.
 ---
 {% include styles.md %}
-{{image-three}}
-<img class="w-third-l self-start center" src="assets/graveyard/soma-invite.png"/>
-<img class="w-third-l self-start center" src="assets/graveyard/remix-1a.jpg"/>
-<img class="w-third-l self-start center" src="assets/graveyard/cuid.png"/>
-<img class="w-third-l self-start center" src="assets/graveyard/soju.png"/>
-<img class="w-third-l self-start center" src="assets/graveyard/sos.jpg"/>
-<img class="w-third-l self-start center" src="assets/graveyard/icons.png"/>
-<img class="w-third-l self-start center" src="assets/graveyard/face.png"/>
+{{masonry}}
+<img class="mb1" src="assets/graveyard/soma-invite.png"/>
+<img class="mb1" src="assets/graveyard/sphere-4.jpg"/>
+<img class="mb1" src="assets/graveyard/icons.png"/>
+<img class="mt1" src="assets/graveyard/rem-meme.png"/>
+<img class="mb1" src="assets/graveyard/remix-1a.jpg"/>
+<img class="mb1" src="assets/graveyard/cuid.png"/>
+<img class="mb1" src="assets/graveyard/face.png"/>
+<img class="mb1" src="assets/graveyard/soju.png"/>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/154699438' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<img class="mt1" src="assets/graveyard/sos.jpg"/>
 
-<img class="w-third-l self-start center" src="assets/graveyard/sphere.gif"/>
 
-<iframe src="https://player.vimeo.com/video/154699438" width="655" height="370" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
 
 {{end_block}}

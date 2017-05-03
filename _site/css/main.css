@@ -106,19 +106,16 @@ p {
 body {
   background-color: #f9f9f9; }
 
+.masonry {
+  column-count: 1;
+  column-gap: 0; }
+  @media (min-width: 30em) {
+    .masonry {
+      column-count: 3;
+      column-gap: 8px; } }
+
 #swoopy {
   background: url(/assets/swoopy.png);
   background-size: cover;
   background-position: 10% 40%;
   z-index: -1; }
-
-.cf {
-  clear: both; }
-
-.cf-4th:nth-child(4n) {
-  margin-right: 0;
-  clear: both; }
-
-.p-fix:nth-child(3n) {
-  padding-right: 0;
-  margin-right: 0; }
