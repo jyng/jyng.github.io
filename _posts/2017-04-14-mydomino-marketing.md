@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Marketing Design
+date: 2017-04-14 00:00:00 Z
+layout: page
 bkg-color: 9CEBFE
 contributions: Various marketing design work for MyDomino (while working on product)
-
 ---
+
 {% include styles.md %}
 {{writing}}
 ## Print Design

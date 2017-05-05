@@ -1,11 +1,13 @@
 ---
-layout: page
 title: Making it easier to reduce food's carbon impact
+date: 2017-03-21 00:00:00 Z
+layout: page
 bkg-color: 9CEBFE
-contributions: Product Design &mdash; Visual Design &mdash; Front-End &mdash; User Research
+contributions: Product Design &mdash; Visual Design &mdash; Front-End &mdash; User
+  Research
 qtr-date: Fall 2016
-
 ---
+
 {% include styles.md %}
 {{ writing }}
 ## Background

@@ -1,8 +1,11 @@
 ---
-layout: page
 title: Design Graveyard
-contributions: Here lies the souls that didn't make it through the arduous odyssey. Bless their hearts.
+date: 2017-04-09 00:00:00 Z
+layout: page
+contributions: Here lies the souls that didn't make it through the arduous odyssey.
+  Bless their hearts.
 ---
+
 {% include styles.md %}
 {{masonry}}
 <img class="mb1" src="assets/graveyard/soma-invite.png"/>

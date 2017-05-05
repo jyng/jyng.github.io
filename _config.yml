@@ -1,9 +1,17 @@
-# Site settings
+---
 title: Jimmy Young
-version: "v1"
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "jyng.github.io" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+version: v1
+description: 
+baseurl: 
+url: jyng.github.io
 twitter: _jyngo
 github: https://github.com/jyng
 dribbble: https://dribbble.com/jyngo
@@ -12,22 +20,11 @@ linkedin: youngjimmy
 instagram: https://instagram.com/earthperson
 email: jyng02@gmail.com
 resume: https://dropbox.com/
-
-
-
-# Tachyons Version
-tv: "4.6.1"
-
-# http://jekyllrb.com/docs/permalinks/
-permalink: /:title
-
-# Build settings
+tv: 4.6.1
+permalink: "/:title"
 markdown: kramdown
-
-
-# Exclude this stuff
-exclude: [node_modules, gulpfile.js]
-
-# Gems
+exclude:
+- node_modules
+- gulpfile.js
 gems:
-  - jekyll-seo-tag
+- jekyll-seo-tag
