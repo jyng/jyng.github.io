@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 May 2017 17:59:48 -0700</pubDate>
-    <lastBuildDate>Thu, 04 May 2017 17:59:48 -0700</lastBuildDate>
+    <pubDate>Mon, 08 May 2017 04:56:54 +0000</pubDate>
+    <lastBuildDate>Mon, 08 May 2017 04:56:54 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -45,7 +45,7 @@
 &lt;/div&gt;
 
 </description>
-        <pubDate>Fri, 14 Apr 2017 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
         <link>jyng.github.io/mydomino-marketing</link>
         <guid isPermaLink="true">jyng.github.io/mydomino-marketing</guid>
         
@@ -111,7 +111,7 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
         <link>jyng.github.io/photography</link>
         <guid isPermaLink="true">jyng.github.io/photography</guid>
         
@@ -143,7 +143,7 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
 &lt;/div&gt;
 
 </description>
-        <pubDate>Sun, 09 Apr 2017 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 09 Apr 2017 00:00:00 +0000</pubDate>
         <link>jyng.github.io/design-graveyard</link>
         <guid isPermaLink="true">jyng.github.io/design-graveyard</guid>
         
@@ -291,7 +291,7 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 &lt;/div&gt;
 
 </description>
-        <pubDate>Tue, 21 Mar 2017 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
         <link>jyng.github.io/food-challenge</link>
         <guid isPermaLink="true">jyng.github.io/food-challenge</guid>
         
@@ -305,7 +305,10 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 
   &lt;h2 id=&quot;identity-design&quot;&gt;Identity Design&lt;/h2&gt;
 
-  &lt;p&gt;I really struggled a lot through the brand identity process. It was mainly hard because the topic is so personal. To best represent the subject, we needed a brand to show to nascent aspect of Asian-American culture. So the identity would have an evolving aesthetic rather than one that’s stagnant.&lt;/p&gt;
+  &lt;p&gt;I went through several identities trying to narrow down a single logotype that would capture the essence of Asian-American culture. I came out with a handful of logotypes(shown below). While discussing the logotype with some colleagues, I realized that I was approaching the problem wrong. I can’t possibly distill a nascent culture that’s still finding it’s voice into a single logotype.&lt;/p&gt;
+
+  &lt;p&gt;I realized that the best approach is to have the visual identity evolve over time. This not only gives the identity fluidity, but I believe it’s also the most respectful intention.
+I struggled, but ultimately enjoyed the process of creating an identity from scratch.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -319,12 +322,39 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 
   &lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
 
-  &lt;p&gt;I did all the photography, design, and development of the site. I worked with a friend to interview and transcribe all the interviews. Site is being released Summer 2017.&lt;/p&gt;
+  &lt;p&gt;I did all the photography, design, and development of the site. I worked with a colleague to plan, interview and transcribe all the content. If anyone out there has ever done transcription, I now I have the utmost respect for you.&lt;/p&gt;
 
 &lt;/div&gt;
 
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-center&quot;&gt;
+
+
+&lt;img src=&quot;/assets/meiru/store.jpg&quot; class=&quot;w-40-l ma2-l self-start&quot; /&gt;
+&lt;img src=&quot;/assets/meiru/yard.jpg&quot; class=&quot;w-40-l ma2-l self-start&quot; /&gt;
+
+
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-center&quot;&gt;
+
+
+&lt;img class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/meiru/home1.png&quot; /&gt;
+&lt;img class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/meiru/home2.png&quot; /&gt;
+
+&lt;img class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/meiru/article1.png&quot; /&gt;
+&lt;img class=&quot;w-40-l ma2-l self-start&quot; src=&quot;/assets/meiru/illo.jpg&quot; /&gt;
+
+&lt;/div&gt;
+
+
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+    &lt;p class=&quot;f5 mono mt4&quot;&gt;The project is planned to release in Summer 2017.&lt;/p&gt;
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
 </description>
-        <pubDate>Thu, 09 Mar 2017 00:00:00 -0800</pubDate>
+        <pubDate>Thu, 09 Mar 2017 00:00:00 +0000</pubDate>
         <link>jyng.github.io/meiru-mag</link>
         <guid isPermaLink="true">jyng.github.io/meiru-mag</guid>
         
@@ -348,7 +378,7 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 12 Aug 2016 22:43:32 -0700</pubDate>
+        <pubDate>Sat, 13 Aug 2016 05:43:32 +0000</pubDate>
         <link>jyng.github.io/welcome-to-jekyll</link>
         <guid isPermaLink="true">jyng.github.io/welcome-to-jekyll</guid>
         
@@ -489,7 +519,7 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 I also find that once a designer has a deeper understanding of their material, they have better insight into the final product.&lt;/p&gt;
 &lt;/div&gt;
 </description>
-        <pubDate>Fri, 19 Feb 2016 00:00:00 -0800</pubDate>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
         <link>jyng.github.io/vivifi</link>
         <guid isPermaLink="true">jyng.github.io/vivifi</guid>
         
