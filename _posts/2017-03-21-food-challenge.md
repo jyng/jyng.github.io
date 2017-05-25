@@ -70,13 +70,12 @@ Here are some insights we found:
 - We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).
 - The gauge's relationship with their food selection was ambiguous
 
-### Incorporating Feedback
+## Solution
 
 My product manager suggested that showing the weekday a user has completed would help solve our affordance issue. I volunteered to implement it as the engineers were busy solving a large back-end issue.
 While building the Weekday UI, I reasoned that we move the graph into a results view. A graph at the end of flow would have more value for users.
 
-In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.
-
+In the food view, after a user finishes food input flow, they are brought back to the dashboard.
 {{end_block}}
 
 {{image-two}}
