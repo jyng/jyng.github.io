@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 May 2017 03:33:32 +0000</pubDate>
-    <lastBuildDate>Tue, 23 May 2017 03:33:32 +0000</lastBuildDate>
+    <pubDate>Wed, 31 May 2017 05:22:39 +0000</pubDate>
+    <lastBuildDate>Wed, 31 May 2017 05:22:39 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -232,12 +232,12 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
     &lt;li&gt;The gauge’s relationship with their food selection was ambiguous&lt;/li&gt;
   &lt;/ul&gt;
 
-  &lt;h3 id=&quot;incorporating-feedback&quot;&gt;Incorporating Feedback&lt;/h3&gt;
+  &lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
 
   &lt;p&gt;My product manager suggested that showing the weekday a user has completed would help solve our affordance issue. I volunteered to implement it as the engineers were busy solving a large back-end issue.
 While building the Weekday UI, I reasoned that we move the graph into a results view. A graph at the end of flow would have more value for users.&lt;/p&gt;
 
-  &lt;p&gt;In the food view, after a user finishes food input flow, they are brought back to the dashboard. We felt that this experience created a dead-end without enough incentive for the user to return.&lt;/p&gt;
+  &lt;p&gt;In the food view, after a user finishes food input flow, they are brought back to the dashboard.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -320,7 +320,7 @@ I struggled, but ultimately enjoyed the process of creating an identity from scr
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+  &lt;h2 id=&quot;website-design&quot;&gt;Website Design&lt;/h2&gt;
 
   &lt;p&gt;I did all the photography, design, and development of the site. I worked with a colleague to plan, interview and transcribe all the content. If anyone out there has ever done transcription, I now I have the utmost respect for you.&lt;/p&gt;
 
