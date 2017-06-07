@@ -103,7 +103,7 @@ While building the product, I documented our design patterns into a style guide 
 When I first joined the company, it was all legacy code leftover from various contractors. I led the restructuring of the entire CSS stack (concepts borrowed from Tachyons/Basscss). I focused on readability and consistency that allowed our CSS to evolve gracefully.
 {{end_block}}
 {{image-md}}
-<img class="w-100" src="https://canvas-files-prod.s3.amazonaws.com/uploads/aa9fbee6-8bf6-4824-ac89-7a27e137d3dd/Screen Shot 2017-04-03 at 7.55.12 PM.png">
+<img class="w-100" src="assets/food-challenge/css-architecture.png"/>
 {{end_block}}
 
 {{writing}}
