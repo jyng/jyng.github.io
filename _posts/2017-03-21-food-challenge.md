@@ -9,6 +9,13 @@ qtr-date: Fall 2016
 ---
 
 {% include styles.md %}
+
+{{image-lg}}
+
+<img class="w-100" src="/assets/food-challenge/foodModal.gif">
+
+{{end_block}}
+
 {{ writing }}
 ## Background
 
@@ -25,7 +32,9 @@ We started with food first because it was something that a lot of users were cur
 In terms with how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
 ## My Role
-I was responsible for designing the entire web app from ideation to implementation. I also helped gather user research, facilitate key product decisions, and helped build out the CSS architecture.
+I was responsible for designing the entire web app from ideation to implementation.
+- Supported my product manager with user research.
+- Collaborated with our 2 developers on front-end development.
 
 ## Wireframes
 

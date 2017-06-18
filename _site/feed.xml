@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Jun 2017 19:58:39 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Jun 2017 19:58:39 +0000</lastBuildDate>
+    <pubDate>Sun, 18 Jun 2017 23:11:44 +0000</pubDate>
+    <lastBuildDate>Sun, 18 Jun 2017 23:11:44 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -151,8 +151,14 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
       </item>
     
       <item>
-        <title>Making it easier to reduce food's carbon impact</title>
+        <title>Creating a rewarding experience towards a healthy planet</title>
         <description>
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/score-card.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
@@ -170,7 +176,53 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
   &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
 
   &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
-  &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation. I also helped gather user research, facilitate key product decisions, and helped build out the CSS architecture.&lt;/p&gt;
+  &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Supported my product manager with user research.&lt;/li&gt;
+    &lt;li&gt;Collaborated with our 2 developers on front-end development.&lt;/li&gt;
+  &lt;/ul&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+        <link>jyng.github.io/score-card</link>
+        <guid isPermaLink="true">jyng.github.io/score-card</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Making it easier to reduce food's carbon impact</title>
+        <description>
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/foodModal.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.&lt;/p&gt;
+
+  &lt;p&gt;We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.&lt;/p&gt;
+
+  &lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
+
+  &lt;p&gt;Our product is divided into 3 different categories: Food, Transportation, Energy.&lt;/p&gt;
+
+  &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.&lt;/p&gt;
+
+  &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
+
+  &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
+  &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation.&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Supported my product manager with user research.&lt;/li&gt;
+    &lt;li&gt;Collaborated with our 2 developers on front-end development.&lt;/li&gt;
+  &lt;/ul&gt;
 
   &lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
 
