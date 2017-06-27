@@ -1,39 +1,66 @@
 ---
-title: Creating a rewarding experience towards a healthy planet
+title: Creating a fun experience around climate change
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
-contributions: Visual Design &mdash; Prototyping &mdash; Product Design
-  Research
-qtr-date: Fall 2016
+contribution1: Exploratory Interviews
+contribution2: Product Strategy
+contribution3: Visual Design
+contribution4: Prototyping
+contribution5:
+contribution6:
 ---
 
 {% include styles.md %}
 
 {{image-lg}}
 
-<img class="w-100" src="/assets/food-challenge/score-card.png">
+<img class="w-100" src="/assets/score-card/score-card.png">
 
 {{end_block}}
 
 {{ writing }}
-## Background
+## Product Goals
+After releasing Food Challenge, the MyDomino team learned that there was still a missing piece in our product. When a user completes the flow, there's no reward for them to return. Food Challenge, in its most basic form, is a utilitarian product (It tracks food consumption). Our product was lacking in product strategy and variable reward.
 
-MyDomino's mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.
+I focused on researching on the motivations of the self-driven and the climate change curious. I used those insights to design a solution that capitalizes on motivations.
 
-We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.
+## Creating the Variable Reward
+I conducted a series of exploratory interviews with environmental bloggers and clean energy activists. These conversations unveiled 2 striking insights:
+-  The Curious (climate change curious) felt overwhelmed by the complexity of environment
+- The Self-Driven found it hard to spread their motivation without being pestering or intrusive
 
-## The Product
+I co-led product meetings about these insights that led us to conceptualizing The Score Card: A representation of one's carbon impact. Then,  Users are can more easily conceptualize an abstract concept (their carbon impact). It also becomes an easier topic to talk about.
+[show iterations]
+However, having a score isn't a powerful variable reward. Our next step was to leverage the Self-Driven and The Curious to build on each other. Empowering the Self-Driven's clean energy actions, while educating The Curious. We added a layer of social competition that would help users learn better habits.
+{{end_block}}
 
-Our product is divided into 3 different categories: Food, Transportation, Energy.
+{{image-lg}}
 
-We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.
+<img class="w-100" src="/assets/score-card/scorecard-iterations.png">
+<p class="center tc mono gray f6 mt0 mb5">Score card iterations</p>
+{{end_block}}
 
-In terms with how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
-## My Role
-I was responsible for designing the entire web app from ideation to implementation.
-- Supported my product manager with user research.
-- Collaborated with our 2 developers on front-end development.
+<div class="tc">
+<img class="w-33 center" src="/assets/score-card/scorecard-prototype.gif">
+
+<a class="center db mono gray f6 mt2 mb5" href="https://framer.cloud/auPHC/">Play with me</a>
+</div>
+
+{{writing}}
+
+
+
+## Pushing it Further
+
+Having social competition keeps users thinking about their carbon impact in a fun way, but we wanted to people to get excited about carbon impact. In trying to capture this, I designed a "surprise" screen to congratulate the user for increasing their rank. Additionally, we added a taunt button to add mischief to the competition. We were wary of creating a dark pattern, so we added it in our user testing before building it. The feedback was 50/50, so we decided to punt it for the next release.
+
+{{image-lg}}
+
+<img class="w-100" src="/assets/score-card/score-card.png">
+
+{{end_block}}
+
 
 {{end_block}}

@@ -3,8 +3,10 @@ title: Making it easier to reduce food's carbon impact
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
-contributions: Product Design &mdash; Visual Design &mdash; Front-End &mdash; User
-  Research
+contribution1: Guerilla Testing
+contribution2: Product Strategy
+contribution3: UX Design
+contribution4: Visual Design
 qtr-date: Fall 2016
 ---
 
@@ -12,7 +14,7 @@ qtr-date: Fall 2016
 
 {{image-lg}}
 
-<img class="w-100" src="/assets/food-challenge/foodModal.gif">
+<img class="w-100" src="/assets/food-challenge/food-challenge.png">
 
 {{end_block}}
 

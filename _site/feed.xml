@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 18 Jun 2017 23:11:44 +0000</pubDate>
-    <lastBuildDate>Sun, 18 Jun 2017 23:11:44 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Jun 2017 03:26:16 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Jun 2017 03:26:16 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -151,36 +151,58 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
       </item>
     
       <item>
-        <title>Creating a rewarding experience towards a healthy planet</title>
+        <title>Creating a fun experience around climate change</title>
         <description>
 &lt;div class=&quot;mw7 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/score-card.png&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/score-card/score-card.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+  &lt;h2 id=&quot;product-goals&quot;&gt;Product Goals&lt;/h2&gt;
+  &lt;p&gt;After releasing Food Challenge, the MyDomino team learned that there was still a missing piece in our product. When a user completes the flow, there’s no reward for them to return. Food Challenge, in its most basic form, is a utilitarian product (It tracks food consumption). Our product was lacking in product strategy and variable reward.&lt;/p&gt;
 
-  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.&lt;/p&gt;
+  &lt;p&gt;I focused on researching on the motivations of the self-driven and the climate change curious. I used those insights to design a solution that capitalizes on motivations.&lt;/p&gt;
 
-  &lt;p&gt;We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.&lt;/p&gt;
-
-  &lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
-
-  &lt;p&gt;Our product is divided into 3 different categories: Food, Transportation, Energy.&lt;/p&gt;
-
-  &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.&lt;/p&gt;
-
-  &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
-
-  &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
-  &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation.&lt;/p&gt;
+  &lt;h2 id=&quot;creating-the-variable-reward&quot;&gt;Creating the Variable Reward&lt;/h2&gt;
+  &lt;p&gt;I conducted a series of exploratory interviews with environmental bloggers and clean energy activists. These conversations unveiled 2 striking insights:&lt;/p&gt;
   &lt;ul&gt;
-    &lt;li&gt;Supported my product manager with user research.&lt;/li&gt;
-    &lt;li&gt;Collaborated with our 2 developers on front-end development.&lt;/li&gt;
+    &lt;li&gt;The Curious (climate change curious) felt overwhelmed by the complexity of environment&lt;/li&gt;
+    &lt;li&gt;The Self-Driven found it hard to spread their motivation without being pestering or intrusive&lt;/li&gt;
   &lt;/ul&gt;
+
+  &lt;p&gt;I co-led product meetings about these insights that led us to conceptualizing The Score Card: A representation of one’s carbon impact. Then,  Users are can more easily conceptualize an abstract concept (their carbon impact). It also becomes an easier topic to talk about.
+[show iterations]
+However, having a score isn’t a powerful variable reward. Our next step was to leverage the Self-Driven and The Curious to build on each other. Empowering the Self-Driven’s clean energy actions, while educating The Curious. We added a layer of social competition that would help users learn better habits.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/score-card/scorecard-iterations.png&quot; /&gt;&lt;/p&gt;
+  &lt;p class=&quot;center tc mono gray f6 mt0 mb5&quot;&gt;Score card iterations&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;tc&quot;&gt;
+&lt;img class=&quot;w-33 center&quot; src=&quot;/assets/score-card/scorecard-prototype.gif&quot; /&gt;
+
+&lt;a class=&quot;center db mono gray f6 mt2 mb5&quot; href=&quot;https://framer.cloud/auPHC/&quot;&gt;Play with me&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;pushing-it-further&quot;&gt;Pushing it Further&lt;/h2&gt;
+
+  &lt;p&gt;Having social competition keeps users thinking about their carbon impact in a fun way, but we wanted to people to get excited about carbon impact. In trying to capture this, I designed a “surprise” screen to congratulate the user for increasing their rank. Additionally, we added a taunt button to add mischief to the competition. We were wary of creating a dark pattern, so we added it in our user testing before building it. The feedback was 50/50, so we decided to punt it for the next release.&lt;/p&gt;
+
+  &lt;div class=&quot;mw7 center&quot;&gt;
+
+    &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/score-card/score-card.png&quot; /&gt;&lt;/p&gt;
+
+  &lt;/div&gt;
 
 &lt;/div&gt;
 
@@ -197,7 +219,7 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
         <description>
 &lt;div class=&quot;mw7 center&quot;&gt;
 
-  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/foodModal.gif&quot; /&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/food-challenge/food-challenge.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
