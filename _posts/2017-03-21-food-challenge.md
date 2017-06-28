@@ -79,7 +79,7 @@ I suggested that we should do some user interviews even if the product was not f
 Here are some insights we found:
 - Measurement for carbon dioxide was not a clear indicator of how well users were doing
 - We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).
-- The gauge's relationship with their food selection was ambiguous.
+- The gauge's relationship with a user's food selection was ambiguous.
 
 ## Solution
 

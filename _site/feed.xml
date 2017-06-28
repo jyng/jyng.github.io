@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2017 06:42:06 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 06:42:06 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 06:42:53 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 06:42:53 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -303,7 +303,7 @@ Then, I took the best ideas to see how well they held up on the screen.&lt;/p&gt
   &lt;ul&gt;
     &lt;li&gt;Measurement for carbon dioxide was not a clear indicator of how well users were doing&lt;/li&gt;
     &lt;li&gt;We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).&lt;/li&gt;
-    &lt;li&gt;The gauge’s relationship with their food selection was ambiguous.&lt;/li&gt;
+    &lt;li&gt;The gauge’s relationship with a user’s food selection was ambiguous.&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
