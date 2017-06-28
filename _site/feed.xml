@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jun 2017 03:11:59 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jun 2017 03:11:59 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 06:42:06 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 06:42:06 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -227,29 +227,29 @@ However, having a score isn’t a powerful variable reward. Our next step was to
 
   &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
 
-  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.&lt;/p&gt;
+  &lt;p&gt;MyDomino’s mission is to help people reduce their carbon impact. However, the act itself is difficult to complete because there are many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.&lt;/p&gt;
 
-  &lt;p&gt;We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.&lt;/p&gt;
+  &lt;p&gt;Therefore, we decided to build out a guided path that makes the whole process of reducing carbon emissions simple and fun.&lt;/p&gt;
 
   &lt;h2 id=&quot;the-product&quot;&gt;The Product&lt;/h2&gt;
 
-  &lt;p&gt;Our product is divided into 3 different categories: Food, Transportation, Energy.&lt;/p&gt;
+  &lt;p&gt;Our product is divided into three different categories: Food, Transportation, Energy.&lt;/p&gt;
 
-  &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.&lt;/p&gt;
+  &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We used this interest to our advantage and built repertoire before moving onto other categories.&lt;/p&gt;
 
-  &lt;p&gt;In terms of how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
+  &lt;p&gt;In terms of how the app works, it is a food tracker measuring in carbon footprint. Many people are curious about reducing their carbon footprint, but but do not know much about the process. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
 
   &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
   &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation.&lt;/p&gt;
   &lt;ul&gt;
     &lt;li&gt;Supported my product manager with user research.&lt;/li&gt;
-    &lt;li&gt;Collaborated with our 2 developers on front-end development.&lt;/li&gt;
+    &lt;li&gt;Collaborated with our two developers on front-end development.&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h2 id=&quot;wireframes&quot;&gt;Wireframes&lt;/h2&gt;
 
   &lt;p&gt;I started by organizing Actions and Information into specific hierarchies and then iterated in a Crazy 8s fashion to quickly generate ideas.
-I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
+Then, I took the best ideas to see how well they held up on the screen.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -269,7 +269,7 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;h2 id=&quot;visual-design&quot;&gt;Visual Design&lt;/h2&gt;
-  &lt;p&gt;We decided on a graph UI that placed focus on a user’s food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.&lt;/p&gt;
+  &lt;p&gt;We decided on a graph UI that focused on a user’s food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -297,13 +297,13 @@ I then took the best ideas so see how well they held up on the screen.&lt;/p&gt;
 
   &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 
-  &lt;p&gt;I suggested that we should do some user interviews even if the product wasn’t fully functional to test our assumption. I supported user research by distilling findings into insights.&lt;/p&gt;
+  &lt;p&gt;I suggested that we should do some user interviews even if the product was not fully functional to test our assumption. I supported user research by distilling findings into insights.&lt;/p&gt;
 
   &lt;p&gt;Here are some insights we found:&lt;/p&gt;
   &lt;ul&gt;
-    &lt;li&gt;Measurement for carbon dioxide wasn’t a clear indicator of how well they were doing&lt;/li&gt;
+    &lt;li&gt;Measurement for carbon dioxide was not a clear indicator of how well users were doing&lt;/li&gt;
     &lt;li&gt;We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).&lt;/li&gt;
-    &lt;li&gt;The gauge’s relationship with their food selection was ambiguous&lt;/li&gt;
+    &lt;li&gt;The gauge’s relationship with their food selection was ambiguous.&lt;/li&gt;
   &lt;/ul&gt;
 
   &lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
@@ -379,7 +379,7 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 
   &lt;h2 id=&quot;identity-design&quot;&gt;Identity Design&lt;/h2&gt;
 
-  &lt;p&gt;I went through several identities trying to narrow down a single logotype that would capture the essence of Asian-American culture. I came out with a handful of logotypes(shown below). While discussing the logotype with some colleagues, I realized that I was approaching the problem wrong. I couldn’t possibly distill a nascent culture that’s still finding it’s voice into a single logotype.&lt;/p&gt;
+  &lt;p&gt;I went through several identities trying to narrow down a single logotype that would capture the essence of Asian-American culture. I came out with a handful of logotypes (shown below). While discussing the logotype with some colleagues, I realized that I was approaching the problem wrong. I couldn’t possibly distill a nascent culture that’s still finding it’s voice into a single logotype.&lt;/p&gt;
 
   &lt;p&gt;I realized that the best approach is to have the visual identity evolve over time. This not only gives the identity fluidity, but I believe it’s also the most respectful intention.
 I struggled, but ultimately enjoyed the process of creating an identity from scratch.&lt;/p&gt;

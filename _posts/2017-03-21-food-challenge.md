@@ -21,27 +21,27 @@ qtr-date: Fall 2016
 {{ writing }}
 ## Background
 
-MyDomino's mission is to help people reduce their carbon impact. But getting people to reduce their carbon impact is hard because there are so many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.
+MyDomino's mission is to help people reduce their carbon impact. However, the act itself is difficult to complete because there are many moving parts: Going solar, reducing food waste, switching to renewable energy — the options are varied.
 
-We decided to build out a guided path that makes the whole process of reducing carbon emissions easy and fun.
+Therefore, we decided to build out a guided path that makes the whole process of reducing carbon emissions simple and fun.
 
 ## The Product
 
-Our product is divided into 3 different categories: Food, Transportation, Energy.
+Our product is divided into three different categories: Food, Transportation, Energy.
 
-We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.
+We started with food first because it was something that a lot of users were curious about. We used this interest to our advantage and built repertoire before moving onto other categories.
 
-In terms of how it works, it's food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don't know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
+In terms of how the app works, it is a food tracker measuring in carbon footprint. Many people are curious about reducing their carbon footprint, but but do not know much about the process. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
 ## My Role
 I was responsible for designing the entire web app from ideation to implementation.
 - Supported my product manager with user research.
-- Collaborated with our 2 developers on front-end development.
+- Collaborated with our two developers on front-end development.
 
 ## Wireframes
 
 I started by organizing Actions and Information into specific hierarchies and then iterated in a Crazy 8s fashion to quickly generate ideas.
-I then took the best ideas so see how well they held up on the screen.
+Then, I took the best ideas to see how well they held up on the screen.
 
 {{end_block}}
 {{image-three}}
@@ -56,7 +56,7 @@ I then took the best ideas so see how well they held up on the screen.
 {{writing}}
 
 ## Visual Design
-We decided on a graph UI that placed focus on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
+We decided on a graph UI that focused on a user's food impact progress. Below the progress tile, we also offered other resources such as helpful articles and local events in the area.
 {{end_block}}
 {{image-md}}
 <img class="w-100" src="/assets/food-challenge/myhome-v1.png">
@@ -74,12 +74,12 @@ We decided on a graph UI that placed focus on a user's food impact progress. Bel
 
 ## Feedback
 
-I suggested that we should do some user interviews even if the product wasn't fully functional to test our assumption. I supported user research by distilling findings into insights.
+I suggested that we should do some user interviews even if the product was not fully functional to test our assumption. I supported user research by distilling findings into insights.
 
 Here are some insights we found:
-- Measurement for carbon dioxide wasn't a clear indicator of how well they were doing
+- Measurement for carbon dioxide was not a clear indicator of how well users were doing
 - We had a hidden affordance in the graph UI. There is no perceivable information for a user to act upon (The graphs numbers were meaningless to a user).
-- The gauge's relationship with their food selection was ambiguous
+- The gauge's relationship with their food selection was ambiguous.
 
 ## Solution
 
