@@ -55,12 +55,10 @@ However, having a score isn't a powerful variable reward. Our next step was to l
 ## Pushing it Further
 
 Having social competition keeps users thinking about their carbon impact in a fun way, but we wanted to people to get excited about carbon impact. In trying to capture this, I designed a "surprise" screen to congratulate the user for increasing their rank. Additionally, we added a taunt button to add mischief to the competition. We were wary of creating a dark pattern, so we added it in our user testing before building it. The feedback was 50/50, so we decided to punt it for the next release.
+{{end_block}}
 
 {{image-lg}}
 
-<img class="w-100" src="/assets/score-card/score-card.png">
-
-{{end_block}}
-
+<img class="w-100" src="/assets/score-card/points.png">
 
 {{end_block}}

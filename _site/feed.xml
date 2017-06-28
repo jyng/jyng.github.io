@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Jun 2017 03:36:38 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2017 03:36:38 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jun 2017 03:11:59 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jun 2017 03:11:59 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -59,7 +59,7 @@
 
   &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
-  &lt;p&gt;I’ve been taking photos for about 6 years. Mostly on and off because I’ll hit a creative block and just quit from mental fatigue.
+  &lt;p&gt;I’ve been taking photos for about six years. Mostly on and off because I’ll hit a creative block and just quit from mental fatigue.
 Here are some pictures I’ve taken in the past my colleagues have said they liked.&lt;/p&gt;
 
 &lt;/div&gt;
@@ -83,7 +83,7 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
   &lt;h1 id=&quot;present&quot;&gt;Present&lt;/h1&gt;
   &lt;p&gt;It took awhile, but when I started questioning my intentionality, I began to see myself shooting with a different perspective.&lt;/p&gt;
 
-  &lt;p&gt;When I’m creating a photo, I’m trying to capture the moment in it’s entirety. As I kept practicing this process, conventional photography was no longer serving me anymore. My pictures didn’t match my vision because the moment transcended a snapshot in time. So I began to wonder:&lt;/p&gt;
+  &lt;p&gt;When I create a photo, I am trying to capture the moment in it’s entirety. As I kept practicing this process, conventional photography was no longer serving me anymore. My pictures didn’t match my vision because the moment transcended a snapshot in time. So I began to wonder:&lt;/p&gt;
 
   &lt;p class=&quot;mono f4 mb4 mt0&quot;&gt;&quot;What would a photo beyond a snapshot of time look like?&quot;&lt;/p&gt;
 
@@ -103,7 +103,7 @@ Here are some pictures I’ve taken in the past my colleagues have said they lik
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;p&gt;I’m still searching for my voice in photography, but the path ahead is clearer. I’ve bridged the gap between my imagination and my execution. And that is all that I truly ask for; masterful control of craft. With that said, I’m not abandoning conventional photography. Portrait, Street, Landscape, etc all have their time and place.  But now, I’m able to look at the world with a different perspective. And as photographers, isn’t that all that we ask for? A different perspective.&lt;/p&gt;
+  &lt;p&gt;I am still searching for my voice in photography, but the path ahead is clearer. I’ve bridged the gap between my imagination and my execution. And that is all that I truly ask for; masterful control of craft. With that said, I am not abandoning conventional photography. Portrait, Street, Landscape, etc all have their time and place.  But now, I am able to look at the world with a different perspective. And as photographers, isn’t that all that we ask for?&lt;/p&gt;
   &lt;div class=&quot;tc&quot;&gt;
 &lt;a href=&quot;https://instagram.com/earthperson&quot; alt=&quot;More photos on Instagram&quot; class=&quot;mono f4 line&quot;&gt;More photos on Instagram&lt;/a&gt;
 &lt;/div&gt;
@@ -198,11 +198,11 @@ However, having a score isn’t a powerful variable reward. Our next step was to
 
   &lt;p&gt;Having social competition keeps users thinking about their carbon impact in a fun way, but we wanted to people to get excited about carbon impact. In trying to capture this, I designed a “surprise” screen to congratulate the user for increasing their rank. Additionally, we added a taunt button to add mischief to the competition. We were wary of creating a dark pattern, so we added it in our user testing before building it. The feedback was 50/50, so we decided to punt it for the next release.&lt;/p&gt;
 
-  &lt;div class=&quot;mw7 center&quot;&gt;
+&lt;/div&gt;
 
-    &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/score-card/score-card.png&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;mw7 center&quot;&gt;
 
-  &lt;/div&gt;
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/score-card/points.png&quot; /&gt;&lt;/p&gt;
 
 &lt;/div&gt;
 
@@ -237,7 +237,7 @@ However, having a score isn’t a powerful variable reward. Our next step was to
 
   &lt;p&gt;We started with food first because it was something that a lot of users were curious about. We figured we could use that curiosity to our advantage and build repertoire before moving onto larger/other categories.&lt;/p&gt;
 
-  &lt;p&gt;In terms with how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
+  &lt;p&gt;In terms of how it works, it’s food tracking but measured in carbon footprint. We realized early on that many people are curious about reducing their carbon footprint, but they don’t know much about it. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.&lt;/p&gt;
 
   &lt;h2 id=&quot;my-role&quot;&gt;My Role&lt;/h2&gt;
   &lt;p&gt;I was responsible for designing the entire web app from ideation to implementation.&lt;/p&gt;
@@ -379,7 +379,7 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
 
   &lt;h2 id=&quot;identity-design&quot;&gt;Identity Design&lt;/h2&gt;
 
-  &lt;p&gt;I went through several identities trying to narrow down a single logotype that would capture the essence of Asian-American culture. I came out with a handful of logotypes(shown below). While discussing the logotype with some colleagues, I realized that I was approaching the problem wrong. I can’t possibly distill a nascent culture that’s still finding it’s voice into a single logotype.&lt;/p&gt;
+  &lt;p&gt;I went through several identities trying to narrow down a single logotype that would capture the essence of Asian-American culture. I came out with a handful of logotypes(shown below). While discussing the logotype with some colleagues, I realized that I was approaching the problem wrong. I couldn’t possibly distill a nascent culture that’s still finding it’s voice into a single logotype.&lt;/p&gt;
 
   &lt;p&gt;I realized that the best approach is to have the visual identity evolve over time. This not only gives the identity fluidity, but I believe it’s also the most respectful intention.
 I struggled, but ultimately enjoyed the process of creating an identity from scratch.&lt;/p&gt;
@@ -421,7 +421,7 @@ I struggled, but ultimately enjoyed the process of creating an identity from scr
 
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
-  &lt;p class=&quot;f5 mono mt4&quot;&gt;The project is planned to release in Summer 2017.&lt;/p&gt;
+  &lt;p class=&quot;f5 mono mt4&quot;&gt;The project is set to release in Summer 2017.&lt;/p&gt;
 
 &lt;/div&gt;
 

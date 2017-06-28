@@ -11,7 +11,7 @@ bkg-color: F1BF98
 
 # Introduction
 
-I've been taking photos for about 6 years. Mostly on and off because I'll hit a creative block and just quit from mental fatigue.
+I've been taking photos for about six years. Mostly on and off because I'll hit a creative block and just quit from mental fatigue.
 Here are some pictures I've taken in the past my colleagues have said they liked.
 {{end_block}}
 {{image-grid}}
@@ -30,7 +30,7 @@ As I took more photos, I became lost and overwhelmed. I felt like I was blindly 
 # Present
 It took awhile, but when I started questioning my intentionality, I began to see myself shooting with a different perspective.
 
-When I'm creating a photo, I'm trying to capture the moment in it's entirety. As I kept practicing this process, conventional photography was no longer serving me anymore. My pictures didn't match my vision because the moment transcended a snapshot in time. So I began to wonder:
+When I create a photo, I am trying to capture the moment in it's entirety. As I kept practicing this process, conventional photography was no longer serving me anymore. My pictures didn't match my vision because the moment transcended a snapshot in time. So I began to wonder:
 
 <p class="mono f4 mb4 mt0">"What would a photo beyond a snapshot of time look like?"</p>
 
@@ -46,7 +46,7 @@ A pleasing photography is a social construct. With careful attention to composit
 {{end_block}}
 {{writing}}
 
-I'm still searching for my voice in photography, but the path ahead is clearer. I've bridged the gap between my imagination and my execution. And that is all that I truly ask for; masterful control of craft. With that said, I'm not abandoning conventional photography. Portrait, Street, Landscape, etc all have their time and place.  But now, I'm able to look at the world with a different perspective. And as photographers, isn't that all that we ask for? A different perspective.
+I am still searching for my voice in photography, but the path ahead is clearer. I've bridged the gap between my imagination and my execution. And that is all that I truly ask for; masterful control of craft. With that said, I am not abandoning conventional photography. Portrait, Street, Landscape, etc all have their time and place.  But now, I am able to look at the world with a different perspective. And as photographers, isn't that all that we ask for?
 <div class="tc">
 <a href="{{site.instagram}}" alt="More photos on Instagram" class="mono f4 line">More photos on Instagram</a>
 </div>
