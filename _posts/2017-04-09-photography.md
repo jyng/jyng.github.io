@@ -2,8 +2,8 @@
 title: Experimental Photography
 date: 2017-04-09 00:00:00 Z
 layout: page
-contributions: An effort towards finding my voice in photography
 bkg-color: F1BF98
+subheader: An effort towards finding my voice in photography
 ---
 
 {% include styles.md %}

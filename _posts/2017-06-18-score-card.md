@@ -7,8 +7,7 @@ contribution1: Exploratory Interviews
 contribution2: Product Strategy
 contribution3: Visual Design
 contribution4: Prototyping
-contribution5:
-contribution6:
+
 ---
 
 {% include styles.md %}

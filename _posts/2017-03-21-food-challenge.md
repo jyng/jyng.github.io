@@ -7,7 +7,6 @@ contribution1: Guerilla Testing
 contribution2: Product Strategy
 contribution3: UX Design
 contribution4: Visual Design
-qtr-date: Fall 2016
 ---
 
 {% include styles.md %}
