@@ -31,10 +31,10 @@ Our product is divided into three different categories: Food, Transportation, En
 
 We started with food first because it was something that a lot of users were curious about. We used this interest to our advantage and built repertoire before moving onto other categories.
 
-In terms of how the app works, it is a food tracker measuring in carbon footprint. Many people are curious about reducing their carbon footprint, but but do not know much about the process. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
+In terms of how the app works, it is a food tracker measuring in carbon footprint. Many people are curious about reducing their carbon footprint, but do not know much about the process. Our product prioritized the learning of the relationship of food and carbon footprint, while using competition to create a compelling experience.
 
 ## My Role
-I was responsible for designing the entire web app from ideation to implementation.
+- I was responsible for designing the entire web app from ideation to implementation.
 - Supported my product manager with user research.
 - Collaborated with our two developers on front-end development.
 

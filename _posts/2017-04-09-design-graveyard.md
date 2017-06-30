@@ -2,8 +2,7 @@
 title: Design Graveyard
 date: 2017-04-09 00:00:00 Z
 layout: page
-contributions: Here lies the souls that didn't make it through the arduous odyssey.
-  Bless their hearts.
+contributions1: Here lies the souls that didn't make it through the arduous odyssey. Bless their hearts.
 ---
 
 {% include styles.md %}
