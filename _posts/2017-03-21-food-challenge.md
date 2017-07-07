@@ -1,5 +1,5 @@
 ---
-title: Making it easier to reduce food's carbon impact
+title: Teaching the relationship between food and carbon impact 
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
