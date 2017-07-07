@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Jun 2017 03:00:11 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Jun 2017 03:00:11 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Jul 2017 02:02:41 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Jul 2017 02:02:41 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -376,6 +376,9 @@ While building the Weekday UI, I reasoned that we move the graph into a results 
         <title>Meiru Mag</title>
         <description>
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+  &lt;p&gt;I started Meiru to answer questions I’ve had around Asian-American identity. But also to see if others shared the same curiosity. As much as Asian-American identity is a personal fascination, I was careful to imbue my own opinions into it. For this to be of meaningful value to others, it has to be a space for others. Albeit random, I hope that this could be helpful for anyone struggling with these issues.&lt;/p&gt;
 
   &lt;h2 id=&quot;identity-design&quot;&gt;Identity Design&lt;/h2&gt;
 
