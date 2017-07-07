@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/earthperson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jyng.github.io
+  * I am earthperson (https://keybase.io/earthperson) on keybase.
+  * I have a public key ASBaFdqce19ROAhIDP5h0hQZDfs5q3GNJIRWpxbDRjbc_Ao
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205a15da9c7b5f513808480cfe61d214190dfb39ab718d248456a716c34636dcfc0a",
+            "host": "keybase.io",
+            "kid": "01205a15da9c7b5f513808480cfe61d214190dfb39ab718d248456a716c34636dcfc0a",
+            "uid": "db5d811538f4edc52904169109f0e219",
+            "username": "earthperson"
+        },
+        "merkle_root": {
+            "ctime": 1499385765,
+            "hash": "6b615597fd535077da0fb435ecd432f6e03e232c4f3330e278b9cdc9f25e18da6782a25b8256a79cb8d78d226fd0eee9e7ba28503258c0f127ea17eed5e05506",
+            "hash_meta": "9673f0f12186ce40b5bde7d1e1d6ef83a323cf79603613e587e84a754df23fa7",
+            "seqno": 1215615
+        },
+        "service": {
+            "hostname": "jyng.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1499385803,
+    "expire_in": 504576000,
+    "prev": "1a83c192098ad420c6c93fbdf0109aabed4b89a0cd690232b01678a3c1fc2e7f",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWhXanHtfUTgISAz+YdIUGQ37OatxjSSEVqcWw0Y23PwKp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWExNWRhOWM3YjVmNTEzODA4NDgwY2ZlNjFkMjE0MTkwZGZiMzlhYjcxOGQyNDg0NTZhNzE2YzM0NjM2ZGNmYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWExNWRhOWM3YjVmNTEzODA4NDgwY2ZlNjFkMjE0MTkwZGZiMzlhYjcxOGQyNDg0NTZhNzE2YzM0NjM2ZGNmYzBhIiwidWlkIjoiZGI1ZDgxMTUzOGY0ZWRjNTI5MDQxNjkxMDlmMGUyMTkiLCJ1c2VybmFtZSI6ImVhcnRocGVyc29uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk5Mzg1NzY1LCJoYXNoIjoiNmI2MTU1OTdmZDUzNTA3N2RhMGZiNDM1ZWNkNDMyZjZlMDNlMjMyYzRmMzMzMGUyNzhiOWNkYzlmMjVlMThkYTY3ODJhMjViODI1NmE3OWNiOGQ3OGQyMjZmZDBlZWU5ZTdiYTI4NTAzMjU4YzBmMTI3ZWExN2VlZDVlMDU1MDYiLCJoYXNoX21ldGEiOiI5NjczZjBmMTIxODZjZTQwYjViZGU3ZDFlMWQ2ZWY4M2EzMjNjZjc5NjAzNjEzZTU4N2U4NGE3NTRkZjIzZmE3Iiwic2Vxbm8iOjEyMTU2MTV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoianluZy5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNCJ9LCJjdGltZSI6MTQ5OTM4NTgwMywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIxYTgzYzE5MjA5OGFkNDIwYzZjOTNmYmRmMDEwOWFhYmVkNGI4OWEwY2Q2OTAyMzJiMDE2NzhhM2MxZmMyZTdmIiwic2Vxbm8iOjExLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQCiYvbzcPIxUakNNt9FfnoPOjsbTCLP8MfZWV5yTs4ql6WPPj5LWi2A/NYPlq+XulOqiIb09C+OLLVmHBbPDigyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAd5FMzeDHhWjykiJPbi/vQbdELr9UChuDh6HQxgZ51VKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/earthperson
+
+==================================================================
