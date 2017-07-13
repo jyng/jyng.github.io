@@ -23,7 +23,14 @@ contribution4: Prototyping
 After releasing Food Challenge, the MyDomino team learned that there was still a missing piece in our product. When a user completes the flow, there's no reward for them to return. Food Challenge, in its most basic form, is a utilitarian product (It tracks food consumption). Our product was lacking in product strategy and variable reward.
 
 I focused on researching on the motivations of the self-driven and the climate change curious. I used those insights to design a solution that capitalizes on motivations.
-
+{{end_block}}
+{{image-md}}
+<p class="center tc mono gray f6 mt0 mb3">I started with generative sketching to explore different ideas</p>
+<img class="w-100" src="/assets/score-card/eights-score-card.jpg">
+<p class="center tc mono gray f6 mt0 mb3">Then, I take the strongest ideas and see how they hold up in the actual screen size</p>
+<img class="w-100" src="/assets/score-card/sketch-score-card.jpg">
+{{end_block}}
+{{writing}}
 ## Creating the Variable Reward
 I conducted a series of exploratory interviews with environmental bloggers and clean energy activists. These conversations unveiled 2 striking insights:
 -  The Curious (climate change curious) felt overwhelmed by the complexity of environment

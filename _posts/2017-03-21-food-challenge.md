@@ -1,5 +1,5 @@
 ---
-title: Teaching the relationship between food and carbon impact 
+title: Teaching the relationship between food and carbon impact
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
@@ -41,6 +41,10 @@ In terms of how the app works, it is a food tracker measuring in carbon footprin
 
 I started by organizing Actions and Information into specific hierarchies and then iterated in a Crazy 8s fashion to quickly generate ideas.
 Then, I took the best ideas to see how well they held up on the screen.
+{{end_block}}
+{{image-md}}
+<img class="w-100" src="/assets/food-challenge/sketch-food-select.jpg">
+<img class="w-100" src="/assets/food-challenge/eights-food-select.jpg">
 
 {{end_block}}
 {{image-three}}
