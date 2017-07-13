@@ -25,6 +25,17 @@
 .overflow {
   height: 568px; }
 
+.img-holder {
+  top: 30%;
+  right: 5%;
+  /*box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);*/
+  /*position: absolute;
+  z-index: 1;
+  display:none;*/ }
+
+.img-hover:hover .img-holder {
+  display: block; }
+
 @font-face {
   font-family: 'You';
   src: url("../assets/fonts/gza-seminegra.eot");

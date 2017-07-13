@@ -6,7 +6,7 @@ $color-meme: #420666;
 .gray-666 {color:$color-666;}
 .color-meme {color:$color-meme;}
 
-
+//browser picture for marketing design
 .browser{
 	background-color: #E4ECF3;
     border: 1px solid #f1f1f1;
@@ -27,7 +27,19 @@ $color-meme: #420666;
 .overflow{
 	height: 568px;
 }
+//on text over, show image
+.img-holder{
+	top:30%;
+	right:5%;
+	/*box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);*/
 
+	/*position: absolute;
+	z-index: 1;
+	display:none;*/
+}
+.img-hover:hover .img-holder{
+	display:block;
+}
 
 
 // Fonts
