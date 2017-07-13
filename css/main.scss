@@ -40,7 +40,27 @@ $color-meme: #420666;
 .img-hover:hover .img-holder{
 	display:block;
 }
+//linear gradient animation
+.linear-gradient {
+  text-align: center;
 
+  /*background: linear-gradient(to right, #D74B3B ,#3BD493, #2952F9, #BF18C7,#D74B3B);*/
+	  background: linear-gradient(to right, #2CB379 ,#3BD493, #2952F9, #16C0E4,#2CB379);
+  background-size: 200% auto;
+
+  color: #000;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  animation: shine 5s linear infinite;
+  @keyframes shine {
+    to {
+      background-position: 200% center;
+    }
+  }
+}
 
 // Fonts
 @import 'https://fonts.googleapis.com/css?family=Lora:400';
