@@ -140,7 +140,7 @@ body {
       column-gap: 8px; } }
 
 #swoopy {
-  background: url(/assets/swoopy.png);
+  background-image: url(/assets/swoopy.png);
   background-size: cover;
   background-position: 10% 40%;
   z-index: -1; }
