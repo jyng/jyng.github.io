@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Jul 2017 06:35:21 +0000</pubDate>
-    <lastBuildDate>Wed, 26 Jul 2017 06:35:21 +0000</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2017 00:42:36 +0000</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2017 00:42:36 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -481,6 +481,128 @@ I struggled, but ultimately enjoyed the process of creating an identity from scr
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Online hiring training course for ESL employers</title>
+        <description>
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img class=&quot;w-100&quot; src=&quot;/assets/hirehelp/emerald-cover.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+  &lt;p&gt;Seattle Chinese Chamber of Commerce (SCCC) came to us to help them build an online hiring course for ESL employers. The amount of classes were increasing, but they didn’t have enough resources to host in-person classes. So, they turned to us for a more scalable solution.&lt;/p&gt;
+  &lt;h2 id=&quot;team&quot;&gt;Team&lt;/h2&gt;
+  &lt;p&gt;I led design and front-end development and worked with a lead engineer and back-end engineer.&lt;/p&gt;
+
+  &lt;h2 id=&quot;kickoff&quot;&gt;Kickoff&lt;/h2&gt;
+  &lt;p&gt;The lead engineer and I started the project by collaborating on a Critical Path. This allowed us to set the scope and priorities quickly. As the project progressed, we added short notes to plan for the next iteration.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/hirehelp/critical-path.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+  &lt;p&gt;My engineer designed the wireframes, while I researched the Youtube API. We used the wireframes to divide tasks and maintain consensus between design and engineering.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/hirehelp/wireframes.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;p&gt;I chose to try out Framer’s new design feature to build a hi-fidelity prototype. Using Framer significantly reduced the amount of syncing between design, engineering, and the client. In one week, I was able to send a prototype to our client and get approval.&lt;/p&gt;
+
+  &lt;h3 id=&quot;mobile-first&quot;&gt;Mobile-First&lt;/h3&gt;
+  &lt;p&gt;By building from mobile up, we can focus on building the essential features before tackling the nice-to-haves. It also enables me to think about design features in front-end components.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/hirehelp/framer-design.png&quot; /&gt;
+&lt;img src=&quot;/assets/hirehelp/framer-code.png&quot; /&gt;&lt;/p&gt;
+  &lt;div class=&quot;tc&quot;&gt;
+&lt;img class=&quot;w-33 center&quot; src=&quot;/assets/hirehelp/hirehelp-framer.gif&quot; /&gt;
+
+&lt;a class=&quot;center db mono gray f6 mt2 mb5&quot; href=&quot;https://framer.cloud/OCTpx&quot;&gt;Play with me&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h3 id=&quot;reducing-scope-quizzes&quot;&gt;Reducing Scope (Quizzes)&lt;/h3&gt;
+  &lt;p&gt;We quoted our remaining development time to our client and decided to reduce quizzes. In the prototype, we had quizzes as a requisite to move onto the next lesson. Our client had not built the quizzes yet, so we had to cut that feature due feasibility.
+Here’s the quoted time we presented for front-end development.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/hirehelp/quoted-time.png&quot; /&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;front-end&quot;&gt;Front-End&lt;/h2&gt;
+  &lt;p&gt;From here, it became a fluid process between design and front-end development. In the beginning, I would try something in Framer and then implement it in production code. As the product progressed, I was working directly in production code to implement features.&lt;/p&gt;
+  &lt;h2 id=&quot;sign-up-flows&quot;&gt;Sign-Up Flows&lt;/h2&gt;
+  &lt;p&gt;These were particularly tricky because we had three sign-up methods:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Regular Sign-Up&lt;/li&gt;
+    &lt;li&gt;Anonymous Sign-Up&lt;/li&gt;
+    &lt;li&gt;Google/Facebook Sign-Up&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;We also needed to know the organizations users were coming from before choosing a sign-up method.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;flex flex-column flex-wrap flex-row-ns justify-center&quot;&gt;
+
+
+&lt;img class=&quot;self-start w-50-ns&quot; src=&quot;/assets/hirehelp/landing.jpg&quot; /&gt;
+&lt;img class=&quot;self-center w-50-ns&quot; src=&quot;/assets/hirehelp/create-account.jpg&quot; /&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;h2 id=&quot;launch&quot;&gt;Launch&lt;/h2&gt;
+  &lt;p&gt;We finished the project in a month and worked with the client on finalizing copy and design. While my lead engineer worked on some back-end hiccups, I worked on polishing up the app with icons, hover effects, and CSS animations.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;mw7 center&quot;&gt;
+
+  &lt;div class=&quot;tc&quot;&gt;
+  &lt;img class=&quot;w-33 center&quot; src=&quot;/assets/hirehelp/emerald.gif&quot; /&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
+        <link>jyng.github.io/emerald</link>
+        <guid isPermaLink="true">jyng.github.io/emerald</guid>
+        
         
       </item>
     
