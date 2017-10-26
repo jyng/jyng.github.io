@@ -57,6 +57,12 @@
   font-weight: normal;
   font-style: normal; }
 @font-face {
+  font-family: 'GT America';
+  src: url("../assets/fonts/GT-America-Standard-Regular.eot");
+  src: url("../assets/GT-America-Standard-Regular.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/GT-America-Standard-Regular.woff2") format("woff2"), url("../assets/fonts/GT-America-Standard-Regular.woff") format("woff"), url("../assets/fonts/GT-America-Standard-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
   font-family: 'vs the man she told you not to worry about';
   src: url("../assets/fonts/bayle-mono.eot");
   src: url("../assets/bayle-mono.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype"), url("../assets/fonts/bayle-mono.svg#youworkforthem") format("svg");
@@ -71,7 +77,7 @@
   font-weight: normal; }
 
 .text {
-  font-family: "Lora", serif;
+  font-family: "GT America", serif;
   font-weight: normal; }
 
 @media screen and (min-width: 30em) {

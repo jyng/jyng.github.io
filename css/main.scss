@@ -64,7 +64,7 @@ $color-meme: #420666;
 
 // Fonts
 @import 'https://fonts.googleapis.com/css?family=Lora:400';
-
+//Gza
 @font-face {
 	font-family: 'You';
 	src: url('../assets/fonts/gza-seminegra.eot');
@@ -76,7 +76,18 @@ $color-meme: #420666;
 	font-weight: normal;
 	font-style: normal;
 }
-
+//GT America
+@font-face {
+	font-family: 'GT America';
+	src: url('../assets/fonts/GT-America-Standard-Regular.eot');
+	src: url('../assets/GT-America-Standard-Regular.eot?#iefix') format('embedded-opentype'),
+             url('../assets/fonts/GT-America-Standard-Regular.woff2') format('woff2'),
+	     url('../assets/fonts/GT-America-Standard-Regular.woff') format('woff'),
+	     url('../assets/fonts/GT-America-Standard-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+//Bayle
 @font-face {
 	font-family: 'vs the man she told you not to worry about';
 	src: url('../assets/fonts/bayle-mono.eot');
@@ -102,7 +113,7 @@ $mono: "vs the man she told you not to worry about",monospaced;
 }
 
 .text {
-	font-family: "Lora", serif;
+	font-family: "GT America", serif;
   font-weight: normal;
 }
 @media screen and (min-width: 30em){

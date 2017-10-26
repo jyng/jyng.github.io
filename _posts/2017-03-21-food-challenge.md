@@ -3,10 +3,10 @@ title: Teaching the relationship between food and carbon impact
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
-contribution1: Guerilla Testing
-contribution2: Product Strategy
-contribution3: UX Design
-contribution4: Visual Design
+subheader1: Guerrilla Testing
+subheader2: Product Strategy
+subheader3: UX Design
+subheader4: Visual Design
 ---
 
 {% include styles.md %}

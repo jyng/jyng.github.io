@@ -3,10 +3,10 @@ title: Creating a fun experience around climate change
 date: 2017-03-21 00:00:00 Z
 layout: page
 bkg-color: 9CEBFE
-contribution1: Exploratory Interviews
-contribution2: Product Strategy
-contribution3: Visual Design
-contribution4: Prototyping
+subheader1: User Interviews
+subheader2: Product Strategy
+subheader3: Visual Design
+subheader4: Prototyping
 
 ---
 

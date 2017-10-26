@@ -5,8 +5,8 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Aug 2017 17:28:07 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Aug 2017 17:28:07 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2017 20:54:13 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2017 20:54:13 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -445,7 +445,7 @@ I struggled, but ultimately enjoyed the process of creating an identity from scr
 &lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
 
   &lt;div class=&quot;tc mt3&quot;&gt;
-  &lt;a href=&quot;meirumag.com&quot; class=&quot;f3 mono tc black line&quot;&gt;View Site&lt;/a&gt;
+  &lt;a href=&quot;http://meirumag.com&quot; class=&quot;f3 mono tc black line&quot;&gt;View Site&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
@@ -582,6 +582,7 @@ Here’s the quoted time we presented for front-end development.&lt;/p&gt;
 
 &lt;img class=&quot;self-start w-50-ns&quot; src=&quot;/assets/hirehelp/landing.jpg&quot; /&gt;
 &lt;img class=&quot;self-center w-50-ns&quot; src=&quot;/assets/hirehelp/create-account.jpg&quot; /&gt;
+&lt;img class=&quot;mt2 w-100 h-100 ba b--light-gray&quot; src=&quot;/assets/hirehelp/emerald-lms.jpg&quot; /&gt;
 
 &lt;/div&gt;
 
@@ -595,7 +596,7 @@ Here’s the quoted time we presented for front-end development.&lt;/p&gt;
 &lt;div class=&quot;mw7 center&quot;&gt;
 
   &lt;div class=&quot;tc&quot;&gt;
-  &lt;img class=&quot;w-33 center&quot; src=&quot;/assets/hirehelp/emerald.gif&quot; /&gt;
+  &lt;img class=&quot;w-33 center ba b--light-gray&quot; src=&quot;/assets/hirehelp/hirehelp.gif&quot; /&gt;
 &lt;/div&gt;
 
 &lt;/div&gt;
