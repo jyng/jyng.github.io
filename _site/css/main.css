@@ -66,6 +66,9 @@
   font-family: "GT America", serif;
   font-weight: normal; }
 
+.gt-ss03 {
+  font-feature-settings: 'ss03' 1; }
+
 @media screen and (min-width: 30em) {
   .f2-ns {
     font-size: 2rem; } }
@@ -136,6 +139,3 @@ body {
   background-size: cover;
   background-position: 10% 40%;
   z-index: -1; }
-
-.gt-ss03 {
-  font-feature-settings: 'ss03' 1; }

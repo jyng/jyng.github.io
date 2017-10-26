@@ -14,7 +14,7 @@ $color-meme: #420666;
     padding-top: 32px;
     position: relative;
 		 &:before {
-        content: '...';
+			content: '...';
         position: absolute;
         top: 0;
         left: 10px;
@@ -22,7 +22,8 @@ $color-meme: #420666;
         font-size: 2.5em;
         color: #C0C4CC;
         font-weight: bold;
-				letter-spacing:0.2rem}
+        letter-spacing:0.2rem
+      }
 }
 .overflow{
 	height: 568px;
@@ -95,6 +96,10 @@ $mono: "vs the man she told you not to worry about";
 	font-family: "GT America", serif;
   font-weight: normal;
 }
+.gt-ss03 {
+	font-feature-settings: 'ss03' 1;
+}
+
 @media screen and (min-width: 30em){
 .f2-ns{
   font-size: 2rem;
@@ -173,7 +178,4 @@ body{
   background-size: cover;
   background-position: 10% 40%;
 	z-index:-1;
-}
-.gt-ss03 {
-	font-feature-settings: 'ss03' 1;
 }
