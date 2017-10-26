@@ -36,20 +36,6 @@
 .img-hover:hover .img-holder {
   display: block; }
 
-.linear-gradient {
-  text-align: center;
-  /*background: linear-gradient(to right, #D74B3B ,#3BD493, #2952F9, #BF18C7,#D74B3B);*/
-  background: linear-gradient(to right, #2CB379, #3BD493, #2952F9, #16C0E4, #2CB379);
-  background-size: 200% auto;
-  color: #000;
-  background-clip: text;
-  text-fill-color: transparent;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: shine 5s linear infinite; }
-@keyframes shine {
-  to {
-    background-position: 200% center; } }
 @font-face {
   font-family: 'You';
   src: url("../assets/fonts/gza-seminegra.eot");
@@ -73,7 +59,7 @@
   font-weight: normal; }
 
 .serif {
-  font-family: "You", serif, serif;
+  font-family: "You", serif;
   font-weight: normal; }
 
 .text {
@@ -84,7 +70,7 @@
   .f2-ns {
     font-size: 2rem; } }
 h1, h2, h3 {
-  font-family: "You", serif;
+  font-family: "You";
   font-weight: normal;
   margin-top: 32px;
   margin-bottom: 8px;
@@ -94,7 +80,7 @@ h3 {
   color: #666666; }
 
 h4 {
-  font-family: "vs the man she told you not to worry about", monospaced;
+  font-family: "vs the man she told you not to worry about";
   font-weight: normal;
   font-size: 18px;
   margin-top: 16px;
@@ -150,3 +136,6 @@ body {
   background-size: cover;
   background-position: 10% 40%;
   z-index: -1; }
+
+.gt-ss03 {
+  font-feature-settings: 'ss03' 1; }
