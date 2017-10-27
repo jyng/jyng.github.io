@@ -2,6 +2,9 @@
 <div class="center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text" markdown="1">
 {% endcapture %}
 
+{% capture about %}
+<div class="ph3 ph3-sm ph0-l f3 measure-wide lh-copy text" markdown="1">
+{% endcapture %}
 {% capture image-lg %}
 
 <div class="mw7 center" markdown="1">
