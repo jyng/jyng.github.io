@@ -5,9 +5,38 @@
     <description></description>
     <link>jyng.github.io/</link>
     <atom:link href="jyng.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Oct 2017 22:36:43 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Oct 2017 22:36:43 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Oct 2017 00:48:03 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:48:03 +0000</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
+    
+      <item>
+        <title>About</title>
+        <description>
+&lt;div class=&quot;center measure-wide ph3 ph3-sm ph0-l f5 lh-copy text&quot;&gt;
+
+  &lt;p&gt;I’m a self-taught product designer with a background in Business. For the past 2 years, I was designing software to help people reduce their carbon footprint.
+ I grew up in Fremont, California. In college, I applied design-thinking to build a computer center in Haiti. After college, I started building websites and designing apps for various clients.&lt;/p&gt;
+
+  &lt;p&gt;Design mantras I believe in…
+— Good ideas can come from anywhere
+— Strong opinions; loosely held
+— Diversity leads to better solutions&lt;/p&gt;
+
+  &lt;p&gt;Current topics I’m interested in…
+— Decentralized web and what it means for non-technical folks
+— Education technology and it’s impact on self-learning&lt;/p&gt;
+
+  &lt;p&gt;You can find me collecting links on Asian-American diaspora, making memes, or gathering visuals.&lt;/p&gt;
+
+&lt;/div&gt;
+
+</description>
+        <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+        <link>jyng.github.io/about</link>
+        <guid isPermaLink="true">jyng.github.io/about</guid>
+        
+        
+      </item>
     
       <item>
         <title>Marketing Design</title>
