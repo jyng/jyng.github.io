@@ -3,7 +3,7 @@
 {% endcapture %}
 
 {% capture about %}
-<div class="ph3 ph3-sm ph0-l f3 measure-wide lh-copy text" markdown="1">
+<div class="f3 measure lh-copy text dark-gray" markdown="1">
 {% endcapture %}
 {% capture image-lg %}
 
