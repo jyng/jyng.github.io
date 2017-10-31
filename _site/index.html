@@ -53,7 +53,7 @@
   		var fontA = new FontFaceObserver('You');
   		var fontB = new FontFaceObserver('vs the man she told you not to worry about');
   		var fontC = new FontFaceObserver('GT America');
-  		Promise.all([fontA.load(), fontB.load(), fontC.load(), fontD.load()]).then(function () {
+  		Promise.all([fontA.load(), fontB.load(), fontC.load().then(function () {
   			document.documentElement.className += " fonts-loaded";
   			// Optimization for Repeat Views
   			sessionStorage.fontsLoadedFoutWithClassPolyfill = true;
