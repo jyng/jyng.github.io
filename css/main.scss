@@ -82,7 +82,19 @@ $color-meme: #420666;
 
 $gza: "You";
 $mono: "vs the man she told you not to worry about";
-
+// FOUT with class
+body {
+		font-family: sans-serif;
+	}
+	.fonts-loaded body {
+		font-family: 'GT America', sans-serif;
+	}
+	.fonts-loaded h1 {
+		font-family: 'You',serif;
+	}
+.fonts-loaded .mono {
+		font-family: $mono, monospaced;
+	}
 .mono {
   font-family: $mono,monospaced;
   font-weight: normal;

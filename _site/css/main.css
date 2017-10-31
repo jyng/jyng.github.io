@@ -56,6 +56,18 @@
   src: url("../assets/bayle-mono.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
+body {
+  font-family: sans-serif; }
+
+.fonts-loaded body {
+  font-family: 'GT America', sans-serif; }
+
+.fonts-loaded h1 {
+  font-family: 'You',serif; }
+
+.fonts-loaded .mono {
+  font-family: "vs the man she told you not to worry about", monospaced; }
+
 .mono {
   font-family: "vs the man she told you not to worry about", monospaced;
   font-weight: normal; }
