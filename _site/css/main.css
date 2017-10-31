@@ -39,7 +39,7 @@
 @font-face {
   font-family: 'You';
   src: url("../assets/fonts/gza-seminegra.eot");
-  src: url("../assets/fonts/gza-seminegra.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/gza-seminegra.woff2") format("woff2"), url("../assets/fonts/gza-seminegra.woff") format("woff"), url("../assets/fonts/gza-seminegra.ttf") format("truetype"), url("../assets/fonts/gza-seminegra.woff.svg") format("svg");
+  src: url("../assets/fonts/gza-seminegra.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/gza-seminegra.woff2") format("woff2"), url("../assets/fonts/gza-seminegra.woff") format("woff"), url("../assets/fonts/gza-seminegra.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 @font-face {
@@ -47,11 +47,13 @@
   src: url("../assets/fonts/GT-America-Standard-Regular.eot");
   src: url("../assets/GT-America-Standard-Regular.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/GT-America-Standard-Regular.woff2") format("woff2"), url("../assets/fonts/GT-America-Standard-Regular.woff") format("woff"), url("../assets/fonts/GT-America-Standard-Regular.ttf") format("truetype");
   font-weight: normal;
-  font-style: normal; }
+  font-style: normal;
+  font-feature-settings: "kern" 1;
+  font-kerning: normal; }
 @font-face {
   font-family: 'vs the man she told you not to worry about';
   src: url("../assets/fonts/bayle-mono.eot");
-  src: url("../assets/bayle-mono.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype"), url("../assets/fonts/bayle-mono.svg#youworkforthem") format("svg");
+  src: url("../assets/bayle-mono.eot?#iefix") format("embedded-opentype"), url("../assets/fonts/bayle-mono.woff2") format("woff2"), url("../assets/fonts/bayle-mono.woff") format("woff"), url("../assets/fonts/bayle-mono.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
 .mono {
@@ -63,7 +65,7 @@
   font-weight: normal; }
 
 .text {
-  font-family: "GT America", serif;
+  font-family: "GT America", sans-serif;
   font-weight: normal; }
 
 .gt-ss03 {

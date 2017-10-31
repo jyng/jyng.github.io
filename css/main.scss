@@ -49,10 +49,9 @@ $color-meme: #420666;
 	font-family: 'You';
 	src: url('../assets/fonts/gza-seminegra.eot');
 	src: url('../assets/fonts/gza-seminegra.eot?#iefix') format('embedded-opentype'),
-             url('../assets/fonts/gza-seminegra.woff2') format('woff2'),
+      	url('../assets/fonts/gza-seminegra.woff2') format('woff2'),
 	     url('../assets/fonts/gza-seminegra.woff') format('woff'),
-	     url('../assets/fonts/gza-seminegra.ttf') format('truetype'),
-	     url('../assets/fonts/gza-seminegra.woff.svg') format('svg');
+	     url('../assets/fonts/gza-seminegra.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -66,6 +65,8 @@ $color-meme: #420666;
 	     url('../assets/fonts/GT-America-Standard-Regular.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
+	font-feature-settings:"kern" 1;
+  font-kerning: normal;
 }
 //Bayle
 @font-face {
@@ -74,8 +75,7 @@ $color-meme: #420666;
 	src: url('../assets/bayle-mono.eot?#iefix') format('embedded-opentype'),
              url('../assets/fonts/bayle-mono.woff2') format('woff2'),
 	     url('../assets/fonts/bayle-mono.woff') format('woff'),
-	     url('../assets/fonts/bayle-mono.ttf') format('truetype'),
-	     url('../assets/fonts/bayle-mono.svg#youworkforthem') format('svg');
+	     url('../assets/fonts/bayle-mono.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -93,7 +93,7 @@ $mono: "vs the man she told you not to worry about";
 }
 
 .text {
-	font-family: "GT America", serif;
+	font-family: "GT America", sans-serif;
   font-weight: normal;
 }
 .gt-ss03 {
